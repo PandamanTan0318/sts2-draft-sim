@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Slay the Spire 2 - Draft Simulator</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="app-header">
+  <h1>Slay the Spire 2 <span>Draft Simulator</span></h1>
+</header>
+
+<main id="app">
+
+  <!-- SETUP SCREEN -->
+  <section id="screen-setup" class="screen">
+    <h2>Set Up Your Draft</h2>
+
+    <div class="field-group">
+      <label>Character</label>
+      <div id="class-select" class="class-grid"></div>
+    </div>
+
+    <div class="field-group">
+      <label>
+        <input type="checkbox" id="include-colorless">
+        Include Colorless cards in the pool
+      </label>
+    </div>
+
+    <div class="field-group">
+      <label>Number of Picks</label>
+      <div class="radio-row" id="picks-select">
+        <label><input type="radio" name="picks" value="10" checked> 10</label>
+        <label><input type="radio" name="picks" value="15"> 15</label>
+        <label><input type="radio" name="picks" value="20"> 20</label>
+      </div>
+    </div>
+
+    <div class="field-group">
+      <label>Copies per Drafted Card</label>
+      <div class="radio-row" id="copies-select">
+        <label><input type="radio" name="copies" value="1" checked> 1x</label>
+        <label><input type="radio" name="copies" value="2"> 2x</label>
+      </div>
+      <p class="hint" id="deck-size-hint"></p>
+    </div>
+
+    <button id="start-draft-btn" class="primary-btn" disabled>Start Draft</button>
+  </section>
+
+  <!-- DRAFT SCREEN -->
+  <section id="screen-draft" class="screen hidden">
+    <div class="draft-progress">
+      <span id="pick-progress-label"></span>
+    </div>
+    <div id="choice-grid" class="choice-grid"></div>
+  </section>
+
+  <!-- FINAL DECK SCREEN -->
+  <section id="screen-final" class="screen hidden">
+    <h2>Final Deck</h2>
+    <div class="field-group">
+      <label>
+        <input type="checkbox" id="include-starting-toggle">
+        Include starting deck cards in this view
+      </label>
+    </div>
+    <div class="view-toggle" id="deck-view-toggle">
+      <button type="button" class="view-btn selected" data-view="list">List View</button>
+      <button type="button" class="view-btn" data-view="cards">Card View</button>
+    </div>
+    <div id="final-deck-list" class="deck-list"></div>
+    <div id="final-deck-cards" class="deck-cards-grid hidden"></div>
+    <button id="restart-btn" class="primary-btn">Start New Draft</button>
+  </section>
+
+</main>
+
+<script src="data/cards.js"></script>
+<script src="data/starting_decks.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
