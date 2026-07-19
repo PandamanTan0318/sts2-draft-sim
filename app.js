@@ -343,13 +343,6 @@ function renderCardTile(choice, onClick) {
   tile.setAttribute("tabindex", "0");
   tile.addEventListener("click", onClick);
 
-  if (rarity === "Rare") {
-    const flag = document.createElement("div");
-    flag.className = "rare-flag";
-    flag.textContent = "★ Rare";
-    tile.appendChild(flag);
-  }
-
   const artWrap = document.createElement("div");
   artWrap.className = "card-art-wrap";
   tile.appendChild(artWrap);

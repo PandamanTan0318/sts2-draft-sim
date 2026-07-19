@@ -425,22 +425,6 @@ main {
 }
 .card-tile:hover { transform: translateY(-6px); box-shadow: 0 16px 32px rgba(0,0,0,0.45); }
 
-.rare-flag {
-  position: absolute;
-  top: 10px;
-  left: 10px;
-  z-index: 2;
-  font-family: var(--font-display);
-  font-size: 0.58rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--ink-on-gold);
-  background: var(--rare);
-  padding: 3px 9px;
-  border-radius: 999px;
-}
-
 .card-art-wrap {
   position: relative;
   width: 100%;
