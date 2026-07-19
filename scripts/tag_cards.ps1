@@ -20,9 +20,11 @@ $tagRules = [ordered]@{
     "Retain"     = '\bretain\b'
     "Exhaust"    = '\bexhaust\b'
     "Ethereal"   = '\bethereal\b'
+    "Discard"    = '\bdiscards?\b'
     # Silent
     "Shiv"       = '\bshivs?\b'
     "Poison"     = '\bpoison\b'
+    "Sly"        = '\bsly\b'
     # Regent
     "Star"       = '\bstar\b'
     "Forge"      = '\bforge\b'

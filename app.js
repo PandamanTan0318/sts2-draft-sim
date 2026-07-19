@@ -22,6 +22,15 @@ const UPGRADE_CHANCE_BY_ACT = [0, 25, 50];
 const PITY_MIN = -5;
 const PITY_MAX = 40;
 
+// Class-specific keyword tags are hidden by default (state.showNicheTags) since they're
+// only meaningful if you know that character's mechanics. General tags always show.
+const NICHE_TAGS = new Set([
+  "Shiv", "Poison", "Sly", // Silent
+  "Star", "Forge", // Regent
+  "Summon", "Doom", "Souls", // Necrobinder
+  "Channel", "Evoke", // Defect
+]);
+
 const cardsBySlug = new Map(CARD_DATA.map((c) => [c.slug, c]));
 
 // ---------------------------------------------------------------------------
@@ -31,6 +40,7 @@ const cardsBySlug = new Map(CARD_DATA.map((c) => [c.slug, c]));
 const state = {
   className: null,
   includeColorless: false,
+  showNicheTags: false,
   picksTotal: 10,
   copies: 1,
   pityOffset: PITY_MIN,
@@ -227,6 +237,18 @@ function renderCardTile(choice, onClick) {
   text.className = "card-text";
   tile.appendChild(text);
 
+  const visibleTags = (card.tags || []).filter(
+    (t) => state.showNicheTags || !NICHE_TAGS.has(t)
+  );
+  if (visibleTags.length > 0) {
+    const tagRow = document.createElement("div");
+    tagRow.className = "tag-row";
+    tagRow.innerHTML = visibleTags
+      .map((t) => `<span class="tag-chip">${t}</span>`)
+      .join("");
+    tile.appendChild(tagRow);
+  }
+
   function renderVisual() {
     artWrap.innerHTML = "";
     const art = cardArt(card, previewUpgraded);
@@ -419,6 +441,9 @@ function init() {
   });
   document.getElementById("include-colorless").addEventListener("change", (e) => {
     state.includeColorless = e.target.checked;
+  });
+  document.getElementById("show-niche-tags").addEventListener("change", (e) => {
+    state.showNicheTags = e.target.checked;
   });
 
   document.getElementById("start-draft-btn").addEventListener("click", () => {

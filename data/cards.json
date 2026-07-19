@@ -11,7 +11,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/abrasive.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/abrasive-upgraded.webp",
         "tags":  [
-                     "Dexterity"
+                     "Dexterity",
+                     "Sly"
                  ]
     },
     {
@@ -57,7 +58,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/acrobatics.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/acrobatics-upgraded.webp",
         "tags":  [
-                     "Draw"
+                     "Draw",
+                     "Discard"
                  ]
     },
     {
@@ -73,7 +75,8 @@
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/adaptive-strike-upgraded.webp",
         "tags":  [
                      "Damage",
-                     "Energy"
+                     "Energy",
+                     "Discard"
                  ]
     },
     {
@@ -136,7 +139,7 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/aggression.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/aggression-upgraded.webp",
         "tags":  [
-
+                     "Discard"
                  ]
     },
     {
@@ -182,7 +185,8 @@
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/all-for-one-upgraded.webp",
         "tags":  [
                      "Damage",
-                     "Energy"
+                     "Energy",
+                     "Discard"
                  ]
     },
     {
@@ -197,7 +201,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/anger.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/anger-upgraded.webp",
         "tags":  [
-                     "Damage"
+                     "Damage",
+                     "Discard"
                  ]
     },
     {
@@ -494,7 +499,7 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/beat-down.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/beat-down-upgraded.webp",
         "tags":  [
-
+                     "Discard"
                  ]
     },
     {
@@ -776,7 +781,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/boost-away.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/boost-away-upgraded.webp",
         "tags":  [
-                     "Block"
+                     "Block",
+                     "Discard"
                  ]
     },
     {
@@ -1083,7 +1089,8 @@
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/calculated-gamble-upgraded.webp",
         "tags":  [
                      "Retain",
-                     "Exhaust"
+                     "Exhaust",
+                     "Discard"
                  ]
     },
     {
@@ -1595,7 +1602,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/cosmic-indifference.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/cosmic-indifference-upgraded.webp",
         "tags":  [
-                     "Block"
+                     "Block",
+                     "Discard"
                  ]
     },
     {
@@ -1735,7 +1743,8 @@
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dagger-throw-upgraded.webp",
         "tags":  [
                      "Damage",
-                     "Draw"
+                     "Draw",
+                     "Discard"
                  ]
     },
     {
@@ -2265,7 +2274,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/drain-power.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/drain-power-upgraded.webp",
         "tags":  [
-                     "Damage"
+                     "Damage",
+                     "Discard"
                  ]
     },
     {
@@ -2297,7 +2307,8 @@
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dredge-upgraded.webp",
         "tags":  [
                      "Retain",
-                     "Exhaust"
+                     "Exhaust",
+                     "Discard"
                  ]
     },
     {
@@ -2842,7 +2853,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/fight-through.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/fight-through-upgraded.webp",
         "tags":  [
-                     "Block"
+                     "Block",
+                     "Discard"
                  ]
     },
     {
@@ -2998,7 +3010,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/flick-flack.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/flick-flack-upgraded.webp",
         "tags":  [
-                     "Damage"
+                     "Damage",
+                     "Sly"
                  ]
     },
     {
@@ -3392,7 +3405,8 @@
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/graveblast-upgraded.webp",
         "tags":  [
                      "Damage",
-                     "Exhaust"
+                     "Exhaust",
+                     "Discard"
                  ]
     },
     {
@@ -3455,7 +3469,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/gunk-up.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/gunk-up-upgraded.webp",
         "tags":  [
-                     "Damage"
+                     "Damage",
+                     "Discard"
                  ]
     },
     {
@@ -3515,7 +3530,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/hand-trick.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hand-trick-upgraded.webp",
         "tags":  [
-                     "Block"
+                     "Block",
+                     "Sly"
                  ]
     },
     {
@@ -3575,7 +3591,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/haze.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/haze-upgraded.webp",
         "tags":  [
-                     "Poison"
+                     "Poison",
+                     "Sly"
                  ]
     },
     {
@@ -3590,7 +3607,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/headbutt.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/headbutt-upgraded.webp",
         "tags":  [
-                     "Damage"
+                     "Damage",
+                     "Discard"
                  ]
     },
     {
@@ -3728,6 +3746,7 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/hidden-daggers.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hidden-daggers-upgraded.webp",
         "tags":  [
+                     "Discard",
                      "Shiv"
                  ]
     },
@@ -3775,7 +3794,8 @@
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hologram-upgraded.webp",
         "tags":  [
                      "Block",
-                     "Exhaust"
+                     "Exhaust",
+                     "Discard"
                  ]
     },
     {
@@ -4628,7 +4648,7 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/master-planner.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/master-planner-upgraded.webp",
         "tags":  [
-
+                     "Sly"
                  ]
     },
     {
@@ -5221,7 +5241,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/overclock.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/overclock-upgraded.webp",
         "tags":  [
-                     "Draw"
+                     "Draw",
+                     "Discard"
                  ]
     },
     {
@@ -5595,7 +5616,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/prepared.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/prepared-upgraded.webp",
         "tags":  [
-                     "Draw"
+                     "Draw",
+                     "Discard"
                  ]
     },
     {
@@ -6018,7 +6040,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/reflex.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/reflex-upgraded.webp",
         "tags":  [
-                     "Draw"
+                     "Draw",
+                     "Sly"
                  ]
     },
     {
@@ -6096,7 +6119,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/ricochet.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/ricochet-upgraded.webp",
         "tags":  [
-                     "Damage"
+                     "Damage",
+                     "Sly"
                  ]
     },
     {
@@ -6112,7 +6136,8 @@
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/right-hand-hand-upgraded.webp",
         "tags":  [
                      "Damage",
-                     "Energy"
+                     "Energy",
+                     "Discard"
                  ]
     },
     {
@@ -6304,7 +6329,8 @@
         "tags":  [
                      "Damage",
                      "Draw",
-                     "Energy"
+                     "Energy",
+                     "Discard"
                  ]
     },
     {
@@ -6507,6 +6533,7 @@
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/severance-upgraded.webp",
         "tags":  [
                      "Damage",
+                     "Discard",
                      "Souls"
                  ]
     },
@@ -6553,7 +6580,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/shadow-step.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/shadow-step-upgraded.webp",
         "tags":  [
-                     "Damage"
+                     "Damage",
+                     "Discard"
                  ]
     },
     {
@@ -6820,7 +6848,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/sneaky.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sneaky-upgraded.webp",
         "tags":  [
-                     "Block"
+                     "Block",
+                     "Sly"
                  ]
     },
     {
@@ -7087,7 +7116,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/stack.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/stack-upgraded.webp",
         "tags":  [
-                     "Block"
+                     "Block",
+                     "Discard"
                  ]
     },
     {
@@ -7193,6 +7223,7 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/storm-of-steel.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/storm-of-steel-upgraded.webp",
         "tags":  [
+                     "Discard",
                      "Shiv"
                  ]
     },
@@ -7407,7 +7438,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/survivor.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/survivor-upgraded.webp",
         "tags":  [
-                     "Block"
+                     "Block",
+                     "Discard"
                  ]
     },
     {
@@ -7516,7 +7548,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/tactician.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/tactician-upgraded.webp",
         "tags":  [
-                     "Energy"
+                     "Energy",
+                     "Sly"
                  ]
     },
     {
@@ -7812,7 +7845,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/tools-of-the-trade.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/tools-of-the-trade-upgraded.webp",
         "tags":  [
-                     "Draw"
+                     "Draw",
+                     "Discard"
                  ]
     },
     {
@@ -7921,7 +7955,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/turbo.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/turbo-upgraded.webp",
         "tags":  [
-                     "Energy"
+                     "Energy",
+                     "Discard"
                  ]
     },
     {
@@ -7997,7 +8032,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/undeath.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/undeath-upgraded.webp",
         "tags":  [
-                     "Block"
+                     "Block",
+                     "Discard"
                  ]
     },
     {
@@ -8058,7 +8094,8 @@
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/untouchable.webp",
         "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/untouchable-upgraded.webp",
         "tags":  [
-                     "Block"
+                     "Block",
+                     "Sly"
                  ]
     },
     {
