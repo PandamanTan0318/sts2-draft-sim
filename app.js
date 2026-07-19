@@ -194,7 +194,7 @@ function cardArt(card, isUpgraded) {
 }
 
 function renderCardTile(choice, onClick) {
-  const { card, rarity, isElite, isUpgraded } = choice;
+  const { card, rarity, isUpgraded } = choice;
   const tile = document.createElement("div");
   tile.className = "card-tile";
   tile.addEventListener("click", onClick);
@@ -228,7 +228,6 @@ function renderCardTile(choice, onClick) {
     <span class="badge rarity-${rarity.toLowerCase()}">${rarity}</span>
     <span class="badge type">${card.type}</span>
     ${isUpgraded ? '<span class="badge upgraded">Upgraded</span>' : ""}
-    ${isElite ? '<span class="badge elite">Elite Odds</span>' : ""}
   `;
   tile.appendChild(badgeRow);
 

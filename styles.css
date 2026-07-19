@@ -207,7 +207,6 @@ main {
 .badge.rarity-rare { background: rgba(214,172,79,0.2); color: var(--rare); }
 .badge.type { background: rgba(255,255,255,0.08); color: var(--muted); }
 .badge.upgraded { background: rgba(87,199,133,0.2); color: var(--upgraded); }
-.badge.elite { background: rgba(214,79,79,0.2); color: #e07a7a; }
 
 .card-text {
   font-size: 0.88rem;
