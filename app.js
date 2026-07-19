@@ -195,46 +195,79 @@ function cardArt(card, isUpgraded) {
 
 function renderCardTile(choice, onClick) {
   const { card, rarity, isUpgraded } = choice;
+  // isUpgraded is the actual rolled outcome (what gets drafted if picked).
+  // previewUpgraded only controls what's currently displayed, so a player
+  // can peek at the other version without changing what picking will do.
+  let previewUpgraded = isUpgraded;
+  const hasDistinctUpgrade =
+    card.upgradedText && card.upgradedText !== card.baseText;
+
   const tile = document.createElement("div");
   tile.className = "card-tile";
   tile.addEventListener("click", onClick);
 
   const artWrap = document.createElement("div");
   artWrap.className = "card-art-wrap";
-  const art = cardArt(card, isUpgraded);
-  if (art) {
-    const img = document.createElement("img");
-    img.src = art;
-    img.alt = card.name;
-    img.onerror = () => {
-      artWrap.innerHTML = `<div class="card-art-fallback">${card.name}</div>`;
-    };
-    artWrap.appendChild(img);
-  } else {
-    artWrap.innerHTML = `<div class="card-art-fallback">${card.name}</div>`;
-  }
   tile.appendChild(artWrap);
 
   const nameRow = document.createElement("div");
   nameRow.className = "card-name-row";
-  nameRow.innerHTML = `<span class="card-name">${card.name}${
-    isUpgraded ? "+" : ""
-  }</span><span class="card-cost">${card.cost ?? "-"}</span>`;
   tile.appendChild(nameRow);
 
   const badgeRow = document.createElement("div");
   badgeRow.className = "badge-row";
-  badgeRow.innerHTML = `
-    <span class="badge rarity-${rarity.toLowerCase()}">${rarity}</span>
-    <span class="badge type">${card.type}</span>
-    ${isUpgraded ? '<span class="badge upgraded">Upgraded</span>' : ""}
-  `;
   tile.appendChild(badgeRow);
+
+  const previewBtn = document.createElement("button");
+  previewBtn.type = "button";
+  previewBtn.className = "preview-toggle-btn";
+  if (hasDistinctUpgrade) tile.appendChild(previewBtn);
 
   const text = document.createElement("div");
   text.className = "card-text";
-  text.textContent = isUpgraded && card.upgradedText ? card.upgradedText : card.baseText;
   tile.appendChild(text);
+
+  function renderVisual() {
+    artWrap.innerHTML = "";
+    const art = cardArt(card, previewUpgraded);
+    if (art) {
+      const img = document.createElement("img");
+      img.src = art;
+      img.alt = card.name;
+      img.onerror = () => {
+        artWrap.innerHTML = `<div class="card-art-fallback">${card.name}</div>`;
+      };
+      artWrap.appendChild(img);
+    } else {
+      artWrap.innerHTML = `<div class="card-art-fallback">${card.name}</div>`;
+    }
+
+    nameRow.innerHTML = `<span class="card-name">${card.name}${
+      previewUpgraded ? "+" : ""
+    }</span><span class="card-cost">${card.cost ?? "-"}</span>`;
+
+    badgeRow.innerHTML = `
+      <span class="badge rarity-${rarity.toLowerCase()}">${rarity}</span>
+      <span class="badge type">${card.type}</span>
+      ${previewUpgraded ? '<span class="badge upgraded">Upgraded</span>' : ""}
+      ${previewUpgraded !== isUpgraded ? '<span class="badge preview">Preview</span>' : ""}
+    `;
+
+    text.textContent =
+      previewUpgraded && card.upgradedText ? card.upgradedText : card.baseText;
+
+    previewBtn.textContent = previewUpgraded
+      ? "Show Base Version"
+      : "Show Upgraded Version";
+  }
+
+  previewBtn.addEventListener("click", (e) => {
+    e.stopPropagation(); // don't trigger picking the card
+    previewUpgraded = !previewUpgraded;
+    renderVisual();
+  });
+
+  renderVisual();
 
   return tile;
 }
