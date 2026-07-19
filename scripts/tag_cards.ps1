@@ -20,7 +20,7 @@ $tagRules = [ordered]@{
     "Retain"     = '\bretain\b'
     "Exhaust"    = '\bexhaust\b'
     "Ethereal"   = '\bethereal\b'
-    "Discard"    = '\bdiscards?\b'
+    "Discard"    = '\bdiscard(s|ed|ing)?\b(?!\s*pile)'
     # Silent
     "Shiv"       = '\bshivs?\b'
     "Poison"     = '\bpoison\b'
