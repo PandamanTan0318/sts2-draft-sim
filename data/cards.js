@@ -9,7 +9,10 @@
         "baseText":  "Sly. Gain 1 Dexterity. Gain 4 Thorns.",
         "upgradedText":  "Sly. Gain 1 Dexterity. Gain 6 Thorns.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/abrasive.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/abrasive-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/abrasive-upgraded.webp",
+        "tags":  [
+                     "Dexterity"
+                 ]
     },
     {
         "slug":  "accelerant",
@@ -21,7 +24,10 @@
         "baseText":  "Poison is triggered 1 additional time.",
         "upgradedText":  "Poison is triggered 2 additional times.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/accelerant.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/accelerant-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/accelerant-upgraded.webp",
+        "tags":  [
+                     "Poison"
+                 ]
     },
     {
         "slug":  "accuracy",
@@ -33,7 +39,11 @@
         "baseText":  "Shivs deal 4 additional damage.",
         "upgradedText":  "Shivs deal 6 additional damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/accuracy.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/accuracy-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/accuracy-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Shiv"
+                 ]
     },
     {
         "slug":  "acrobatics",
@@ -45,7 +55,10 @@
         "baseText":  "Draw 3 cards. Discard 1 card.",
         "upgradedText":  "Draw 4 cards. Discard 1 card.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/acrobatics.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/acrobatics-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/acrobatics-upgraded.webp",
+        "tags":  [
+                     "Draw"
+                 ]
     },
     {
         "slug":  "adaptive-strike",
@@ -57,7 +70,11 @@
         "baseText":  "Deal 18 damage. Add a 01 Defect Energy copy of this card into your Discard Pile.",
         "upgradedText":  "Deal 23 damage. Add a 01 Defect Energy copy of this card into your Discard Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/adaptive-strike.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/adaptive-strike-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/adaptive-strike-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Energy"
+                 ]
     },
     {
         "slug":  "adrenaline",
@@ -69,7 +86,12 @@
         "baseText":  "Gain 1 Silent Energy. Draw 2 cards. Exhaust.",
         "upgradedText":  "Gain 2 Silent Energy. Draw 2 cards. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/adrenaline.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/adrenaline-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/adrenaline-upgraded.webp",
+        "tags":  [
+                     "Draw",
+                     "Energy",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "afterimage",
@@ -81,7 +103,10 @@
         "baseText":  "Whenever you play a card, gain 1 Block.",
         "upgradedText":  "Innate. Whenever you play a card, gain 1 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/afterimage.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/afterimage-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/afterimage-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "afterlife",
@@ -93,7 +118,11 @@
         "baseText":  "Summon 6. Exhaust.",
         "upgradedText":  "Summon 9. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/afterlife.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/afterlife-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/afterlife-upgraded.webp",
+        "tags":  [
+                     "Exhaust",
+                     "Summon"
+                 ]
     },
     {
         "slug":  "aggression",
@@ -105,7 +134,10 @@
         "baseText":  "At the start of your turn, put a random Attack from your Discard Pile into your Hand and Upgrade it.",
         "upgradedText":  "Innate. At the start of your turn, put a random Attack from your Discard Pile into your Hand and Upgrade it.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/aggression.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/aggression-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/aggression-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "alchemize",
@@ -117,7 +149,10 @@
         "baseText":  "Procure a random potion. Exhaust.",
         "upgradedText":  "Cost changes from 1 to 0",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/alchemize.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/alchemize-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/alchemize-upgraded.webp",
+        "tags":  [
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "alignment",
@@ -129,7 +164,10 @@
         "baseText":  "Gain 2 Regent Energy.",
         "upgradedText":  "Gain 3 Regent Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/alignment.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/alignment-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/alignment-upgraded.webp",
+        "tags":  [
+                     "Energy"
+                 ]
     },
     {
         "slug":  "all-for-one",
@@ -141,7 +179,11 @@
         "baseText":  "Deal 10 damage. Put ALL 01 Defect Energy cards from your Discard Pile into your Hand.",
         "upgradedText":  "Deal 14 damage. Put ALL 01 Defect Energy cards from your Discard Pile into your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/all-for-one.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/all-for-one-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/all-for-one-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Energy"
+                 ]
     },
     {
         "slug":  "anger",
@@ -153,7 +195,10 @@
         "baseText":  "Deal 6 damage. Add a copy of this card into your Discard Pile.",
         "upgradedText":  "Deal 8 damage. Add a copy of this card into your Discard Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/anger.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/anger-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/anger-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "anointed",
@@ -165,7 +210,11 @@
         "baseText":  "Put every Rare card from your Draw Pile into your Hand. Exhaust.",
         "upgradedText":  "Retain. Put every Rare card from your Draw Pile into your Hand. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/anointed.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/anointed-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/anointed-upgraded.webp",
+        "tags":  [
+                     "Retain",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "anticipate",
@@ -177,7 +226,10 @@
         "baseText":  "Gain 2 Dexterity this turn.",
         "upgradedText":  "Gain 3 Dexterity this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/anticipate.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/anticipate-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/anticipate-upgraded.webp",
+        "tags":  [
+                     "Dexterity"
+                 ]
     },
     {
         "slug":  "armaments",
@@ -189,7 +241,10 @@
         "baseText":  "Gain 5 Block. Upgrade a card in your Hand.",
         "upgradedText":  "Gain 5 Block. Upgrade ALL cards in your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/armaments.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/armaments-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/armaments-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "arsenal",
@@ -201,7 +256,10 @@
         "baseText":  "Whenever you create a card, gain 1 Strength.",
         "upgradedText":  "Innate. Whenever you create a card, gain 1 Strength.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/arsenal.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/arsenal-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/arsenal-upgraded.webp",
+        "tags":  [
+                     "Strength"
+                 ]
     },
     {
         "slug":  "ashen-strike",
@@ -213,7 +271,11 @@
         "baseText":  "Deal 6 damage. Deals 3 additional damage for each card in your Exhaust Pile.",
         "upgradedText":  "Deal 6 damage. Deals 4 additional damage for each card in your Exhaust Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/ashen-strike.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/ashen-strike-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/ashen-strike-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "assassinate",
@@ -225,7 +287,12 @@
         "baseText":  "Innate. Deal 10 damage. Apply 1 Vulnerable. Exhaust.",
         "upgradedText":  "Innate. Deal 13 damage. Apply 2 Vulnerable. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/assassinate.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/assassinate-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/assassinate-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Debuff",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "astral-pulse",
@@ -237,7 +304,10 @@
         "baseText":  "Deal 6 damage to ALL enemies twice.",
         "upgradedText":  "Deal 8 damage to ALL enemies twice.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/astral-pulse.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/astral-pulse-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/astral-pulse-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "automation",
@@ -249,7 +319,10 @@
         "baseText":  "Every 10 cards you draw, gain 1 Colorless Energy.",
         "upgradedText":  "Cost changes from 1 to 0",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/automation.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/automation-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/automation-upgraded.webp",
+        "tags":  [
+                     "Energy"
+                 ]
     },
     {
         "slug":  "backflip",
@@ -261,7 +334,11 @@
         "baseText":  "Gain 5 Block. Draw 2 cards.",
         "upgradedText":  "Gain 8 Block. Draw 2 cards.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/backflip.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/backflip-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/backflip-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Draw"
+                 ]
     },
     {
         "slug":  "backstab",
@@ -273,7 +350,11 @@
         "baseText":  "Innate. Deal 11 damage. Exhaust.",
         "upgradedText":  "Innate. Deal 15 damage. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/backstab.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/backstab-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/backstab-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "ball-lightning",
@@ -285,7 +366,11 @@
         "baseText":  "Deal 7 damage. Channel 1 Lightning.",
         "upgradedText":  "Deal 10 damage. Channel 1 Lightning.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/ball-lightning.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/ball-lightning-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/ball-lightning-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Channel"
+                 ]
     },
     {
         "slug":  "banshees-cry",
@@ -297,7 +382,12 @@
         "baseText":  "Deal 33 damage to ALL enemies. Costs 2 Necrobinder Energy less for each Ethereal card played this combat.",
         "upgradedText":  "Cost changes from 9 to 7",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/banshees-cry.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/banshees-cry-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/banshees-cry-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Energy",
+                     "Ethereal"
+                 ]
     },
     {
         "slug":  "barrage",
@@ -309,7 +399,11 @@
         "baseText":  "Deal 5 damage for each Channeled Orb.",
         "upgradedText":  "Deal 7 damage for each Channeled Orb.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/barrage.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/barrage-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/barrage-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Channel"
+                 ]
     },
     {
         "slug":  "barricade",
@@ -321,7 +415,10 @@
         "baseText":  "Block is not removed at the start of your turn.",
         "upgradedText":  "Cost changes from 3 to 2",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/barricade.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/barricade-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/barricade-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "bash",
@@ -333,7 +430,11 @@
         "baseText":  "Deal 8 damage. Apply 2 Vulnerable.",
         "upgradedText":  "Deal 10 damage. Apply 3 Vulnerable.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/bash.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bash-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bash-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Debuff"
+                 ]
     },
     {
         "slug":  "battle-trance",
@@ -345,7 +446,10 @@
         "baseText":  "Draw 3 cards. You cannot draw additional cards this turn.",
         "upgradedText":  "Draw 4 cards. You cannot draw additional cards this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/battle-trance.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/battle-trance-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/battle-trance-upgraded.webp",
+        "tags":  [
+                     "Draw"
+                 ]
     },
     {
         "slug":  "beacon-of-hope",
@@ -357,7 +461,10 @@
         "baseText":  "Whenever you gain Block on your turn, other players gain half that much Block.",
         "upgradedText":  "Innate. Whenever you gain Block on your turn, other players gain half that much Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/beacon-of-hope.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/beacon-of-hope-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/beacon-of-hope-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "beam-cell",
@@ -369,7 +476,11 @@
         "baseText":  "Deal 3 damage. Apply 1 Vulnerable.",
         "upgradedText":  "Deal 4 damage. Apply 2 Vulnerable.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/beam-cell.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/beam-cell-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/beam-cell-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Debuff"
+                 ]
     },
     {
         "slug":  "beat-down",
@@ -381,7 +492,10 @@
         "baseText":  "Play 3 random Attacks from your Discard Pile.",
         "upgradedText":  "Play 4 random Attacks from your Discard Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/beat-down.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/beat-down-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/beat-down-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "beat-into-shape",
@@ -393,7 +507,11 @@
         "baseText":  "Deal 5 damage. Forge 5. Forges an additional 5 for every other time you\u0027ve hit the enemy this turn.",
         "upgradedText":  "Deal 7 damage. Forge 7. Forges an additional 7 for every other time you\u0027ve hit the enemy this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/beat-into-shape.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/beat-into-shape-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/beat-into-shape-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Forge"
+                 ]
     },
     {
         "slug":  "begone",
@@ -405,7 +523,10 @@
         "baseText":  "Choose a card in your Hand to Transform into Minion Strike.",
         "upgradedText":  "Choose a card in your Hand to Transform into Minion Strike+.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/begone.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/begone-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/begone-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "believe-in-you",
@@ -417,7 +538,10 @@
         "baseText":  "Another player gains 2 Colorless Energy.",
         "upgradedText":  "Another player gains 3 Colorless Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/believe-in-you.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/believe-in-you-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/believe-in-you-upgraded.webp",
+        "tags":  [
+                     "Energy"
+                 ]
     },
     {
         "slug":  "big-bang",
@@ -429,7 +553,14 @@
         "baseText":  "Draw 1 card. Gain 1 Regent Energy. Gain 1 Regent Star Energy. Forge 5. Exhaust.",
         "upgradedText":  "Innate. Draw 1 card. Gain 1 Regent Energy. Gain 1 Regent Star Energy. Forge 5. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/big-bang.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/big-bang-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/big-bang-upgraded.webp",
+        "tags":  [
+                     "Draw",
+                     "Energy",
+                     "Exhaust",
+                     "Star",
+                     "Forge"
+                 ]
     },
     {
         "slug":  "black-hole",
@@ -441,7 +572,12 @@
         "baseText":  "Whenever you spend or gain 1 Regent Star Energy, deal 3 damage to ALL enemies.",
         "upgradedText":  "Whenever you spend or gain 1 Regent Star Energy, deal 4 damage to ALL enemies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/black-hole.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/black-hole-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/black-hole-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Energy",
+                     "Star"
+                 ]
     },
     {
         "slug":  "blade-dance",
@@ -453,7 +589,11 @@
         "baseText":  "Add 3 Shivs into your Hand. Exhaust.",
         "upgradedText":  "Add 4 Shivs into your Hand. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/blade-dance.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/blade-dance-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/blade-dance-upgraded.webp",
+        "tags":  [
+                     "Exhaust",
+                     "Shiv"
+                 ]
     },
     {
         "slug":  "blade-of-ink",
@@ -465,7 +605,10 @@
         "baseText":  "Add 2 Inky Shivs into your Hand.",
         "upgradedText":  "Add 3 Inky Shivs into your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/blade-of-ink.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/blade-of-ink-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/blade-of-ink-upgraded.webp",
+        "tags":  [
+                     "Shiv"
+                 ]
     },
     {
         "slug":  "blight-strike",
@@ -477,7 +620,11 @@
         "baseText":  "Deal 8 damage. Apply Doom equal to damage dealt.",
         "upgradedText":  "Deal 10 damage. Apply Doom equal to damage dealt.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/blight-strike.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/blight-strike-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/blight-strike-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Doom"
+                 ]
     },
     {
         "slug":  "bloodletting",
@@ -489,7 +636,10 @@
         "baseText":  "Lose 3 HP. Gain 2 Ironclad Energy.",
         "upgradedText":  "Lose 3 HP. Gain 3 Ironclad Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/bloodletting.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bloodletting-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bloodletting-upgraded.webp",
+        "tags":  [
+                     "Energy"
+                 ]
     },
     {
         "slug":  "blood-wall",
@@ -501,7 +651,10 @@
         "baseText":  "Lose 2 HP. Gain 16 Block.",
         "upgradedText":  "Lose 2 HP. Gain 20 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/blood-wall.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/blood-wall-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/blood-wall-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "bludgeon",
@@ -513,7 +666,10 @@
         "baseText":  "Deal 32 damage.",
         "upgradedText":  "Deal 42 damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/bludgeon.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bludgeon-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bludgeon-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "blur",
@@ -525,7 +681,10 @@
         "baseText":  "Gain 5 Block. Block is not removed at the start of your next turn.",
         "upgradedText":  "Gain 8 Block. Block is not removed at the start of your next turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/blur.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/blur-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/blur-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "bodyguard",
@@ -537,7 +696,10 @@
         "baseText":  "Summon 5.",
         "upgradedText":  "Summon 7.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/bodyguard.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bodyguard-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bodyguard-upgraded.webp",
+        "tags":  [
+                     "Summon"
+                 ]
     },
     {
         "slug":  "body-slam",
@@ -549,7 +711,11 @@
         "baseText":  "Deal damage equal to your Block.",
         "upgradedText":  "Cost changes from 1 to 0",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/body-slam.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/body-slam-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/body-slam-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Block"
+                 ]
     },
     {
         "slug":  "bolas",
@@ -561,7 +727,10 @@
         "baseText":  "Deal 3 damage. At the start of your next turn, return this to your Hand.",
         "upgradedText":  "Deal 4 damage. At the start of your next turn, return this to your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/bolas.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bolas-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bolas-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "bombardment",
@@ -573,7 +742,11 @@
         "baseText":  "Deal 18 damage. At the start of your turn, if this is in your Exhaust Pile, play it. Exhaust.",
         "upgradedText":  "Deal 24 damage. At the start of your turn, if this is in your Exhaust Pile, play it. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/bombardment.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bombardment-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bombardment-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "bone-shards",
@@ -585,7 +758,11 @@
         "baseText":  "If Osty is alive, he deals 9 damage to ALL enemies and you gain 9 Block. Osty dies.",
         "upgradedText":  "If Osty is alive, he deals 12 damage to ALL enemies and you gain 12 Block. Osty dies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/bone-shards.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bone-shards-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bone-shards-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Block"
+                 ]
     },
     {
         "slug":  "boost-away",
@@ -597,7 +774,10 @@
         "baseText":  "Gain 6 Block. Add a Dazed into your Discard Pile.",
         "upgradedText":  "Gain 9 Block. Add a Dazed into your Discard Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/boost-away.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/boost-away-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/boost-away-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "boot-sequence",
@@ -609,7 +789,11 @@
         "baseText":  "Innate. Gain 10 Block. Exhaust.",
         "upgradedText":  "Innate. Gain 13 Block. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/boot-sequence.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/boot-sequence-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/boot-sequence-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "borrowed-time",
@@ -621,7 +805,10 @@
         "baseText":  "Gain 41 Necrobinder Energy. Cards cost an additional 1 Necrobinder Energy this turn.",
         "upgradedText":  "Gain 61 Necrobinder Energy. Cards cost an additional 1 Necrobinder Energy this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/borrowed-time.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/borrowed-time-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/borrowed-time-upgraded.webp",
+        "tags":  [
+                     "Energy"
+                 ]
     },
     {
         "slug":  "bouncing-flask",
@@ -633,7 +820,10 @@
         "baseText":  "Apply 3 Poison to a random enemy 3 times.",
         "upgradedText":  "Apply 3 Poison to a random enemy 4 times.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/bouncing-flask.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bouncing-flask-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bouncing-flask-upgraded.webp",
+        "tags":  [
+                     "Poison"
+                 ]
     },
     {
         "slug":  "brand",
@@ -645,7 +835,11 @@
         "baseText":  "Lose 1 HP. Exhaust 1 card. Gain 1 Strength.",
         "upgradedText":  "Lose 1 HP. Exhaust 1 card. Gain 2 Strength.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/brand.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/brand-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/brand-upgraded.webp",
+        "tags":  [
+                     "Strength",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "breakthrough",
@@ -657,7 +851,10 @@
         "baseText":  "Lose 1 HP. Deal 9 damage to ALL enemies.",
         "upgradedText":  "Lose 1 HP. Deal 13 damage to ALL enemies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/breakthrough.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/breakthrough-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/breakthrough-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "bubble-bubble",
@@ -669,7 +866,10 @@
         "baseText":  "If the enemy has Poison, apply 9 Poison.",
         "upgradedText":  "If the enemy has Poison, apply 12 Poison.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/bubble-bubble.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bubble-bubble-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bubble-bubble-upgraded.webp",
+        "tags":  [
+                     "Poison"
+                 ]
     },
     {
         "slug":  "buffer",
@@ -681,7 +881,10 @@
         "baseText":  "Prevent the next time you would lose HP.",
         "upgradedText":  "Prevent the next 2 times you would lose HP.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/buffer.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/buffer-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/buffer-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "bulk-up",
@@ -693,7 +896,11 @@
         "baseText":  "Lose 1 Orb Slot. Gain 2 Strength. Gain 2 Dexterity.",
         "upgradedText":  "Lose 1 Orb Slot. Gain 3 Strength. Gain 3 Dexterity.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/bulk-up.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bulk-up-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bulk-up-upgraded.webp",
+        "tags":  [
+                     "Strength",
+                     "Dexterity"
+                 ]
     },
     {
         "slug":  "bullet-time",
@@ -705,7 +912,10 @@
         "baseText":  "You cannot draw additional cards this turn. ALL cards in your Hand are free to play this turn.",
         "upgradedText":  "Cost changes from 3 to 2",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/bullet-time.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bullet-time-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bullet-time-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "bully",
@@ -717,7 +927,11 @@
         "baseText":  "Deal 4 damage. Deals 2 additional damage for each Vulnerable on the enemy.",
         "upgradedText":  "Deal 4 damage. Deals 3 additional damage for each Vulnerable on the enemy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/bully.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bully-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bully-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Debuff"
+                 ]
     },
     {
         "slug":  "bulwark",
@@ -729,7 +943,11 @@
         "baseText":  "Gain 12 Block. Forge 10.",
         "upgradedText":  "Gain 15 Block. Forge 13.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/bulwark.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bulwark-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bulwark-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Forge"
+                 ]
     },
     {
         "slug":  "bundle-of-joy",
@@ -741,7 +959,10 @@
         "baseText":  "Add 3 random Colorless cards into your Hand. Exhaust.",
         "upgradedText":  "Add 4 random Colorless cards into your Hand. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/bundle-of-joy.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bundle-of-joy-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bundle-of-joy-upgraded.webp",
+        "tags":  [
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "burning-pact",
@@ -753,7 +974,11 @@
         "baseText":  "Exhaust 1 card. Draw 2 cards.",
         "upgradedText":  "Exhaust 1 card. Draw 3 cards.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/burning-pact.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/burning-pact-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/burning-pact-upgraded.webp",
+        "tags":  [
+                     "Draw",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "burst",
@@ -765,7 +990,10 @@
         "baseText":  "This turn, your next Skill is played an extra time.",
         "upgradedText":  "This turn, your next 2 Skills are played an extra time.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/burst.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/burst-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/burst-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "bury",
@@ -777,7 +1005,10 @@
         "baseText":  "Deal 52 damage.",
         "upgradedText":  "Deal 63 damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/bury.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bury-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/bury-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "byrdonis-egg",
@@ -789,7 +1020,10 @@
         "baseText":  "Unplayable. Can be hatched at a Rest Site.",
         "upgradedText":  null,
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/byrdonis-egg.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/byrdonis-egg-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/byrdonis-egg-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "byrd-swoop",
@@ -801,7 +1035,10 @@
         "baseText":  "Deal 14 damage.",
         "upgradedText":  "Deal 18 damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/byrd-swoop.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/byrd-swoop-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/byrd-swoop-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "calamity",
@@ -813,7 +1050,10 @@
         "baseText":  "Whenever you play an Attack, add a random Attack into your Hand.",
         "upgradedText":  "Cost changes from 3 to 2",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/calamity.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/calamity-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/calamity-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "calcify",
@@ -825,7 +1065,10 @@
         "baseText":  "Osty\u0027s attacks deal 4 additional damage.",
         "upgradedText":  "Osty\u0027s attacks deal 6 additional damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/calcify.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/calcify-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/calcify-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "calculated-gamble",
@@ -837,7 +1080,11 @@
         "baseText":  "Discard your Hand, then draw that many cards. Exhaust.",
         "upgradedText":  "Retain. Discard your Hand, then draw that many cards. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/calculated-gamble.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/calculated-gamble-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/calculated-gamble-upgraded.webp",
+        "tags":  [
+                     "Retain",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "call-of-the-void",
@@ -849,7 +1096,10 @@
         "baseText":  "At the start of your turn, add 1 random card into your Hand. It gains Ethereal.",
         "upgradedText":  "Innate. At the start of your turn, add 1 random card into your Hand. It gains Ethereal.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/call-of-the-void.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/call-of-the-void-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/call-of-the-void-upgraded.webp",
+        "tags":  [
+                     "Ethereal"
+                 ]
     },
     {
         "slug":  "caltrops",
@@ -861,7 +1111,10 @@
         "baseText":  "Whenever you are attacked, deal 3 damage back.",
         "upgradedText":  "Whenever you are attacked, deal 5 damage back.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/caltrops.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/caltrops-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/caltrops-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "capacitor",
@@ -873,7 +1126,10 @@
         "baseText":  "Gain 2 Orb Slots.",
         "upgradedText":  "Gain 3 Orb Slots.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/capacitor.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/capacitor-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/capacitor-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "capture-spirit",
@@ -885,7 +1141,10 @@
         "baseText":  "Enemy loses 3 HP. Add 3 Souls into your Draw Pile.",
         "upgradedText":  "Enemy loses 4 HP. Add 4 Souls into your Draw Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/capture-spirit.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/capture-spirit-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/capture-spirit-upgraded.webp",
+        "tags":  [
+                     "Souls"
+                 ]
     },
     {
         "slug":  "cascade",
@@ -897,7 +1156,10 @@
         "baseText":  "Play the top X cards of your Draw Pile.",
         "upgradedText":  "Play the top X+1 cards of your Draw Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/cascade.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/cascade-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/cascade-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "catastrophe",
@@ -909,7 +1171,10 @@
         "baseText":  "Play 2 random cards from your Draw Pile.",
         "upgradedText":  "Play 3 random cards from your Draw Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/catastrophe.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/catastrophe-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/catastrophe-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "celestial-might",
@@ -921,7 +1186,10 @@
         "baseText":  "Deal 6 damage 3 times.",
         "upgradedText":  "Deal 6 damage 4 times.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/celestial-might.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/celestial-might-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/celestial-might-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "chaos",
@@ -933,7 +1201,10 @@
         "baseText":  "Channel 1 random Orb.",
         "upgradedText":  "Channel 2 random Orbs.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/chaos.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/chaos-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/chaos-upgraded.webp",
+        "tags":  [
+                     "Channel"
+                 ]
     },
     {
         "slug":  "charge",
@@ -945,7 +1216,10 @@
         "baseText":  "Choose 2 cards in your Draw Pile to Transform into Minion Dive Bombs.",
         "upgradedText":  "Choose 2 cards in your Draw Pile to Transform into Minion Dive Bombs+.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/charge.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/charge-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/charge-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "charge-battery",
@@ -957,7 +1231,11 @@
         "baseText":  "Gain 7 Block. Next turn, gain 1 Defect Energy.",
         "upgradedText":  "Gain 10 Block. Next turn, gain 1 Defect Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/charge-battery.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/charge-battery-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/charge-battery-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Energy"
+                 ]
     },
     {
         "slug":  "child-of-the-stars",
@@ -969,7 +1247,12 @@
         "baseText":  "Whenever you spend 1 Regent Star Energy, gain 2 Block for each 1 Regent Star Energy spent.",
         "upgradedText":  "Whenever you spend 1 Regent Star Energy, gain 3 Block for each 1 Regent Star Energy spent.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/child-of-the-stars.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/child-of-the-stars-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/child-of-the-stars-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Energy",
+                     "Star"
+                 ]
     },
     {
         "slug":  "chill",
@@ -981,7 +1264,11 @@
         "baseText":  "Channel 1 Frost for each enemy. Exhaust.",
         "upgradedText":  "Channel 1 Frost for each enemy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/chill.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/chill-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/chill-upgraded.webp",
+        "tags":  [
+                     "Exhaust",
+                     "Channel"
+                 ]
     },
     {
         "slug":  "cinder",
@@ -993,7 +1280,11 @@
         "baseText":  "Deal 18 damage. Exhaust 1 card at random.",
         "upgradedText":  "Deal 24 damage. Exhaust 1 card at random.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/cinder.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/cinder-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/cinder-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "clash",
@@ -1005,7 +1296,10 @@
         "baseText":  "Can only be played if every card in your Hand is an Attack. Deal 14 damage.",
         "upgradedText":  "Can only be played if every card in your Hand is an Attack. Deal 18 damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/clash.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/clash-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/clash-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "claw",
@@ -1017,7 +1311,10 @@
         "baseText":  "Deal 3 damage. Increase the damage of ALL Claw cards by 2 this combat.",
         "upgradedText":  "Deal 4 damage. Increase the damage of ALL Claw cards by 3 this combat.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/claw.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/claw-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/claw-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "cleanse",
@@ -1029,7 +1326,11 @@
         "baseText":  "Summon 3. Exhaust 1 card from your Draw Pile.",
         "upgradedText":  "Summon 5. Exhaust 1 card from your Draw Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/cleanse.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/cleanse-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/cleanse-upgraded.webp",
+        "tags":  [
+                     "Exhaust",
+                     "Summon"
+                 ]
     },
     {
         "slug":  "cloak-and-dagger",
@@ -1041,7 +1342,11 @@
         "baseText":  "Gain 6 Block. Add 1 Shiv into your Hand.",
         "upgradedText":  "Gain 6 Block. Add 2 Shivs into your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/cloak-and-dagger.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/cloak-and-dagger-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/cloak-and-dagger-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Shiv"
+                 ]
     },
     {
         "slug":  "cloak-of-stars",
@@ -1053,7 +1358,10 @@
         "baseText":  "Gain 7 Block.",
         "upgradedText":  "Gain 10 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/cloak-of-stars.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/cloak-of-stars-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/cloak-of-stars-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "cold-snap",
@@ -1065,7 +1373,11 @@
         "baseText":  "Deal 6 damage. Channel 1 Frost.",
         "upgradedText":  "Deal 9 damage. Channel 1 Frost.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/cold-snap.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/cold-snap-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/cold-snap-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Channel"
+                 ]
     },
     {
         "slug":  "collision-course",
@@ -1077,7 +1389,10 @@
         "baseText":  "Deal 11 damage. Add a Debris into your Hand.",
         "upgradedText":  "Deal 15 damage. Add a Debris into your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/collision-course.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/collision-course-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/collision-course-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "colossus",
@@ -1089,7 +1404,12 @@
         "baseText":  "Gain 5 Block. You receive 50% less damage from Vulnerable enemies this turn.",
         "upgradedText":  "Gain 8 Block. You receive 50% less damage from Vulnerable enemies this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/colossus.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/colossus-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/colossus-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Block",
+                     "Debuff"
+                 ]
     },
     {
         "slug":  "comet",
@@ -1101,7 +1421,11 @@
         "baseText":  "Deal 33 damage. Apply 3 Weak. Apply 3 Vulnerable.",
         "upgradedText":  "Deal 44 damage. Apply 3 Weak. Apply 3 Vulnerable.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/comet.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/comet-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/comet-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Debuff"
+                 ]
     },
     {
         "slug":  "compact",
@@ -1113,7 +1437,10 @@
         "baseText":  "Gain 6 Block. Transform all Status cards in your Hand into Fuel.",
         "upgradedText":  "Gain 7 Block. Transform all Status cards in your Hand into Fuel+.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/compact.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/compact-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/compact-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "compile-driver",
@@ -1125,7 +1452,11 @@
         "baseText":  "Deal 7 damage. Draw 1 card for each unique Orb you have.",
         "upgradedText":  "Deal 10 damage. Draw 1 card for each unique Orb you have.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/compile-driver.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/compile-driver-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/compile-driver-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Draw"
+                 ]
     },
     {
         "slug":  "conflagration",
@@ -1137,7 +1468,10 @@
         "baseText":  "Deal 2 damage to ALL enemies 4 times.",
         "upgradedText":  "Deal 2 damage to ALL enemies 5 times.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/conflagration.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/conflagration-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/conflagration-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "conqueror",
@@ -1149,7 +1483,11 @@
         "baseText":  "Forge 3. Sovereign Blade deals double damage to the enemy this turn.",
         "upgradedText":  "Forge 5. Sovereign Blade deals double damage to the enemy this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/conqueror.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/conqueror-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/conqueror-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Forge"
+                 ]
     },
     {
         "slug":  "consuming-shadow",
@@ -1161,7 +1499,11 @@
         "baseText":  "Channel 2 Dark. At the end of your turn, Evoke your leftmost Orb.",
         "upgradedText":  "Channel 3 Dark. At the end of your turn, Evoke your leftmost Orb.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/consuming-shadow.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/consuming-shadow-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/consuming-shadow-upgraded.webp",
+        "tags":  [
+                     "Channel",
+                     "Evoke"
+                 ]
     },
     {
         "slug":  "convergence",
@@ -1173,7 +1515,12 @@
         "baseText":  "Next turn, gain 1 Regent Energy and 1 Regent Star Energy. Retain your Hand this turn.",
         "upgradedText":  "Next turn, gain 1 Regent Energy and 2 Regent Star Energy. Retain your Hand this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/convergence.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/convergence-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/convergence-upgraded.webp",
+        "tags":  [
+                     "Energy",
+                     "Retain",
+                     "Star"
+                 ]
     },
     {
         "slug":  "coolant",
@@ -1185,7 +1532,10 @@
         "baseText":  "At the start of your turn, gain 2 Block for each unique Orb you have.",
         "upgradedText":  "At the start of your turn, gain 3 Block for each unique Orb you have.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/coolant.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/coolant-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/coolant-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "coolheaded",
@@ -1197,7 +1547,11 @@
         "baseText":  "Channel 1 Frost. Draw 1 card.",
         "upgradedText":  "Channel 1 Frost. Draw 2 cards.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/coolheaded.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/coolheaded-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/coolheaded-upgraded.webp",
+        "tags":  [
+                     "Draw",
+                     "Channel"
+                 ]
     },
     {
         "slug":  "coordinate",
@@ -1209,7 +1563,10 @@
         "baseText":  "Give another player 5 Strength this turn.",
         "upgradedText":  "Give another player 8 Strength this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/coordinate.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/coordinate-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/coordinate-upgraded.webp",
+        "tags":  [
+                     "Strength"
+                 ]
     },
     {
         "slug":  "corrosive-wave",
@@ -1221,7 +1578,10 @@
         "baseText":  "Whenever you draw a card this turn, apply 2 Poison to ALL enemies.",
         "upgradedText":  "Whenever you draw a card this turn, apply 3 Poison to ALL enemies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/corrosive-wave.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/corrosive-wave-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/corrosive-wave-upgraded.webp",
+        "tags":  [
+                     "Poison"
+                 ]
     },
     {
         "slug":  "cosmic-indifference",
@@ -1233,7 +1593,10 @@
         "baseText":  "Gain 6 Block. Put a card from your Discard Pile on top of your Draw Pile.",
         "upgradedText":  "Gain 9 Block. Put a card from your Discard Pile on top of your Draw Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/cosmic-indifference.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/cosmic-indifference-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/cosmic-indifference-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "countdown",
@@ -1245,7 +1608,10 @@
         "baseText":  "At the start of your turn, apply 6 Doom to a random enemy.",
         "upgradedText":  "At the start of your turn, apply 9 Doom to a random enemy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/countdown.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/countdown-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/countdown-upgraded.webp",
+        "tags":  [
+                     "Doom"
+                 ]
     },
     {
         "slug":  "crash-landing",
@@ -1257,7 +1623,10 @@
         "baseText":  "Deal 21 damage to ALL enemies. Fill your Hand with Debris.",
         "upgradedText":  "Deal 26 damage to ALL enemies. Fill your Hand with Debris.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/crash-landing.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/crash-landing-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/crash-landing-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "creative-ai",
@@ -1269,7 +1638,10 @@
         "baseText":  "At the start of your turn, add a random Power into your Hand.",
         "upgradedText":  "Cost changes from 3 to 2",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/creative-ai.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/creative-ai-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/creative-ai-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "crescent-spear",
@@ -1281,7 +1653,12 @@
         "baseText":  "Deal 8 damage. Deals 2 additional damage for ALL your cards that have a 1 Regent Star Energy cost.",
         "upgradedText":  "Deal 8 damage. Deals 3 additional damage for ALL your cards that have a 1 Regent Star Energy cost.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/crescent-spear.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/crescent-spear-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/crescent-spear-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Energy",
+                     "Star"
+                 ]
     },
     {
         "slug":  "crimson-mantle",
@@ -1293,7 +1670,10 @@
         "baseText":  "At the start of your turn, lose 1 HP and gain 8 Block.",
         "upgradedText":  "At the start of your turn, lose 1 HP and gain 10 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/crimson-mantle.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/crimson-mantle-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/crimson-mantle-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "cruelty",
@@ -1305,7 +1685,11 @@
         "baseText":  "Vulnerable enemies take an additional 25% damage.",
         "upgradedText":  "Vulnerable enemies take an additional 50% damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/cruelty.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/cruelty-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/cruelty-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Debuff"
+                 ]
     },
     {
         "slug":  "crush-under",
@@ -1317,7 +1701,11 @@
         "baseText":  "Deal 7 damage to ALL enemies. All enemies lose 1 Strength this turn.",
         "upgradedText":  "Deal 8 damage to ALL enemies. All enemies lose 2 Strength this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/crush-under.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/crush-under-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/crush-under-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Strength"
+                 ]
     },
     {
         "slug":  "dagger-spray",
@@ -1329,7 +1717,10 @@
         "baseText":  "Deal 4 damage to ALL enemies twice.",
         "upgradedText":  "Deal 6 damage to ALL enemies twice.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/dagger-spray.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dagger-spray-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dagger-spray-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "dagger-throw",
@@ -1341,7 +1732,11 @@
         "baseText":  "Deal 9 damage. Draw 1 card. Discard 1 card.",
         "upgradedText":  "Deal 12 damage. Draw 1 card. Discard 1 card.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/dagger-throw.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dagger-throw-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dagger-throw-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Draw"
+                 ]
     },
     {
         "slug":  "danse-macabre",
@@ -1353,7 +1748,11 @@
         "baseText":  "Whenever you play a card that costs 2 Necrobinder Energy or more, gain 4 Block.",
         "upgradedText":  "Whenever you play a card that costs 2 Necrobinder Energy or more, gain 6 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/danse-macabre.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/danse-macabre-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/danse-macabre-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Energy"
+                 ]
     },
     {
         "slug":  "dark-embrace",
@@ -1365,7 +1764,10 @@
         "baseText":  "Whenever a card is Exhausted, draw 1 card.",
         "upgradedText":  "Cost changes from 2 to 1",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/dark-embrace.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dark-embrace-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dark-embrace-upgraded.webp",
+        "tags":  [
+                     "Draw"
+                 ]
     },
     {
         "slug":  "darkness",
@@ -1377,7 +1779,10 @@
         "baseText":  "Channel 1 Dark. Trigger the passive ability of all Dark Orbs.",
         "upgradedText":  "Channel 1 Dark. Trigger the passive ability of all Dark Orbs twice.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/darkness.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/darkness-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/darkness-upgraded.webp",
+        "tags":  [
+                     "Channel"
+                 ]
     },
     {
         "slug":  "dark-shackles",
@@ -1389,7 +1794,11 @@
         "baseText":  "Enemy loses 9 Strength this turn. Exhaust.",
         "upgradedText":  "Enemy loses 15 Strength this turn. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/dark-shackles.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dark-shackles-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dark-shackles-upgraded.webp",
+        "tags":  [
+                     "Strength",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "dash",
@@ -1401,7 +1810,11 @@
         "baseText":  "Gain 10 Block. Deal 10 damage.",
         "upgradedText":  "Gain 13 Block. Deal 13 damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/dash.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dash-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dash-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Block"
+                 ]
     },
     {
         "slug":  "deadly-poison",
@@ -1413,7 +1826,10 @@
         "baseText":  "Apply 5 Poison.",
         "upgradedText":  "Apply 7 Poison.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/deadly-poison.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/deadly-poison-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/deadly-poison-upgraded.webp",
+        "tags":  [
+                     "Poison"
+                 ]
     },
     {
         "slug":  "deathbringer",
@@ -1425,7 +1841,11 @@
         "baseText":  "Apply 21 Doom and 1 Weak to ALL enemies.",
         "upgradedText":  "Apply 26 Doom and 1 Weak to ALL enemies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/deathbringer.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/deathbringer-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/deathbringer-upgraded.webp",
+        "tags":  [
+                     "Debuff",
+                     "Doom"
+                 ]
     },
     {
         "slug":  "death-march",
@@ -1437,7 +1857,10 @@
         "baseText":  "Deal 8 damage. Deals 4 additional damage for each card drawn during your turn.",
         "upgradedText":  "Deal 9 damage. Deals 6 additional damage for each card drawn during your turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/death-march.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/death-march-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/death-march-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "deaths-door",
@@ -1449,7 +1872,11 @@
         "baseText":  "Gain 6 Block. If you applied Doom this turn, gain Block 2 additional times.",
         "upgradedText":  "Gain 7 Block. If you applied Doom this turn, gain Block 2 additional times.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/deaths-door.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/deaths-door-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/deaths-door-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Doom"
+                 ]
     },
     {
         "slug":  "debilitate",
@@ -1461,7 +1888,11 @@
         "baseText":  "Deal 10 damage. Vulnerable and Weak are twice as effective against the enemy for the next 2 turns.",
         "upgradedText":  "Deal 12 damage. Vulnerable and Weak are twice as effective against the enemy for the next 3 turns.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/debilitate.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/debilitate-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/debilitate-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Debuff"
+                 ]
     },
     {
         "slug":  "decisions-decisions",
@@ -1473,7 +1904,11 @@
         "baseText":  "Draw 3 cards. Choose a Skill in your Hand and play it 3 times. Exhaust.",
         "upgradedText":  "Draw 5 cards. Choose a Skill in your Hand and play it 3 times. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/decisions-decisions.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/decisions-decisions-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/decisions-decisions-upgraded.webp",
+        "tags":  [
+                     "Draw",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "defend-defect",
@@ -1485,7 +1920,10 @@
         "baseText":  "Gain 5 Block.",
         "upgradedText":  "Gain 8 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/defend-defect.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/defend-defect-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/defend-defect-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "defend-ironclad",
@@ -1497,7 +1935,10 @@
         "baseText":  "Gain 5 Block.",
         "upgradedText":  "Gain 8 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/defend-ironclad.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/defend-ironclad-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/defend-ironclad-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "defend-necrobinder",
@@ -1509,7 +1950,10 @@
         "baseText":  "Gain 5 Block.",
         "upgradedText":  "Gain 8 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/defend-necrobinder.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/defend-necrobinder-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/defend-necrobinder-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "defend-regent",
@@ -1521,7 +1965,10 @@
         "baseText":  "Gain 5 Block.",
         "upgradedText":  "Gain 8 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/defend-regent.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/defend-regent-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/defend-regent-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "defend-silent",
@@ -1533,7 +1980,10 @@
         "baseText":  "Gain 5 Block.",
         "upgradedText":  "Gain 8 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/defend-silent.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/defend-silent-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/defend-silent-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "defile",
@@ -1545,7 +1995,11 @@
         "baseText":  "Ethereal. Deal 13 damage.",
         "upgradedText":  "Ethereal. Deal 17 damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/defile.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/defile-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/defile-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Ethereal"
+                 ]
     },
     {
         "slug":  "deflect",
@@ -1557,7 +2011,10 @@
         "baseText":  "Gain 4 Block.",
         "upgradedText":  "Gain 7 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/deflect.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/deflect-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/deflect-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "defragment",
@@ -1569,7 +2026,10 @@
         "baseText":  "Gain 1 Focus.",
         "upgradedText":  "Gain 2 Focus.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/defragment.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/defragment-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/defragment-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "defy",
@@ -1581,7 +2041,12 @@
         "baseText":  "Ethereal. Gain 6 Block. Apply 1 Weak.",
         "upgradedText":  "Ethereal. Gain 9 Block. Apply 1 Weak.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/defy.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/defy-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/defy-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Debuff",
+                     "Ethereal"
+                 ]
     },
     {
         "slug":  "delay",
@@ -1593,7 +2058,11 @@
         "baseText":  "Gain 11 Block. Next turn, gain 1 Necrobinder Energy.",
         "upgradedText":  "Gain 13 Block. Next turn, gain 2 Necrobinder Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/delay.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/delay-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/delay-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Energy"
+                 ]
     },
     {
         "slug":  "demesne",
@@ -1605,7 +2074,11 @@
         "baseText":  "Ethereal. At the start of your turn, gain 1 Necrobinder Energy and draw 1 additional card.",
         "upgradedText":  "Cost changes from 3 to 2",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/demesne.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/demesne-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/demesne-upgraded.webp",
+        "tags":  [
+                     "Energy",
+                     "Ethereal"
+                 ]
     },
     {
         "slug":  "demon-form",
@@ -1617,7 +2090,10 @@
         "baseText":  "At the start of your turn, gain 2 Strength.",
         "upgradedText":  "At the start of your turn, gain 3 Strength.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/demon-form.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/demon-form-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/demon-form-upgraded.webp",
+        "tags":  [
+                     "Strength"
+                 ]
     },
     {
         "slug":  "demonic-shield",
@@ -1629,7 +2105,11 @@
         "baseText":  "Lose 1 HP. Give another player Block equal to your Block. Exhaust.",
         "upgradedText":  "Lose 1 HP. Give another player Block equal to your Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/demonic-shield.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/demonic-shield-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/demonic-shield-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "devastate",
@@ -1641,7 +2121,10 @@
         "baseText":  "Deal 30 damage.",
         "upgradedText":  "Deal 40 damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/devastate.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/devastate-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/devastate-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "devour-life",
@@ -1653,7 +2136,11 @@
         "baseText":  "Whenever you play a Soul, Summon 1.",
         "upgradedText":  "Whenever you play a Soul, Summon 2.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/devour-life.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/devour-life-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/devour-life-upgraded.webp",
+        "tags":  [
+                     "Summon",
+                     "Souls"
+                 ]
     },
     {
         "slug":  "dirge",
@@ -1665,7 +2152,12 @@
         "baseText":  "Summon 3 X times. Add X Souls into your Draw Pile. Exhaust.",
         "upgradedText":  "Summon 4 X times. Add X Souls+ into your Draw Pile. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/dirge.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dirge-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dirge-upgraded.webp",
+        "tags":  [
+                     "Exhaust",
+                     "Summon",
+                     "Souls"
+                 ]
     },
     {
         "slug":  "discovery",
@@ -1677,7 +2169,10 @@
         "baseText":  "Choose 1 of 3 random cards to add into your Hand. It\u0027s free to play this turn. Exhaust.",
         "upgradedText":  "Choose 1 of 3 random cards to add into your Hand. It\u0027s free to play this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/discovery.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/discovery-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/discovery-upgraded.webp",
+        "tags":  [
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "dismantle",
@@ -1689,7 +2184,11 @@
         "baseText":  "Deal 8 damage. If the enemy is Vulnerable, hits twice.",
         "upgradedText":  "Deal 10 damage. If the enemy is Vulnerable, hits twice.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/dismantle.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dismantle-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dismantle-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Debuff"
+                 ]
     },
     {
         "slug":  "distraction",
@@ -1701,7 +2200,10 @@
         "baseText":  "Add a random Skill into your Hand. It\u0027s free to play this turn. Exhaust.",
         "upgradedText":  "Cost changes from 1 to 0",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/distraction.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/distraction-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/distraction-upgraded.webp",
+        "tags":  [
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "dodge-and-roll",
@@ -1713,7 +2215,10 @@
         "baseText":  "Gain 4 Block. Next turn, gain 4 Block.",
         "upgradedText":  "Gain 6 Block. Next turn, gain 6 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/dodge-and-roll.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dodge-and-roll-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dodge-and-roll-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "dominate",
@@ -1725,7 +2230,12 @@
         "baseText":  "Apply 1 Vulnerable. Gain 1 Strength for each Vulnerable on the enemy. Exhaust.",
         "upgradedText":  "Apply 2 Vulnerable. Gain 1 Strength for each Vulnerable on the enemy. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/dominate.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dominate-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dominate-upgraded.webp",
+        "tags":  [
+                     "Strength",
+                     "Debuff",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "double-energy",
@@ -1737,7 +2247,11 @@
         "baseText":  "Double your Energy. Exhaust.",
         "upgradedText":  "Cost changes from 1 to 0",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/double-energy.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/double-energy-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/double-energy-upgraded.webp",
+        "tags":  [
+                     "Energy",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "drain-power",
@@ -1749,7 +2263,10 @@
         "baseText":  "Deal 10 damage. Upgrade 2 random cards in your Discard Pile.",
         "upgradedText":  "Deal 12 damage. Upgrade 3 random cards in your Discard Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/drain-power.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/drain-power-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/drain-power-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "dramatic-entrance",
@@ -1761,7 +2278,11 @@
         "baseText":  "Innate. Deal 11 damage to ALL enemies. Exhaust.",
         "upgradedText":  "Innate. Deal 15 damage to ALL enemies. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/dramatic-entrance.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dramatic-entrance-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dramatic-entrance-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "dredge",
@@ -1773,7 +2294,11 @@
         "baseText":  "Put 3 cards from your Discard Pile into your Hand. Exhaust.",
         "upgradedText":  "Retain. Put 3 cards from your Discard Pile into your Hand. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/dredge.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dredge-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dredge-upgraded.webp",
+        "tags":  [
+                     "Retain",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "drum-of-battle",
@@ -1785,7 +2310,11 @@
         "baseText":  "Draw 2 cards. When this card is Exhausted, gain 2 Ironclad Energy.",
         "upgradedText":  "Draw 2 cards. When this card is Exhausted, gain 3 Ironclad Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/drum-of-battle.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/drum-of-battle-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/drum-of-battle-upgraded.webp",
+        "tags":  [
+                     "Draw",
+                     "Energy"
+                 ]
     },
     {
         "slug":  "dualcast",
@@ -1797,7 +2326,10 @@
         "baseText":  "Evoke your rightmost Orb twice.",
         "upgradedText":  "Cost changes from 1 to 0",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/dualcast.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dualcast-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dualcast-upgraded.webp",
+        "tags":  [
+                     "Evoke"
+                 ]
     },
     {
         "slug":  "dual-wield",
@@ -1809,7 +2341,10 @@
         "baseText":  "Choose an Attack or Power card. Add a copy of that card into your Hand.",
         "upgradedText":  "Choose an Attack or Power card. Add 2 copies of that card into your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/dual-wield.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dual-wield-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dual-wield-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "dying-star",
@@ -1821,7 +2356,13 @@
         "baseText":  "Ethereal. Deal 9 damage to ALL enemies. ALL enemies lose 9 Strength this turn.",
         "upgradedText":  "Ethereal. Deal 11 damage to ALL enemies. ALL enemies lose 11 Strength this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/dying-star.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dying-star-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/dying-star-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Strength",
+                     "Ethereal",
+                     "Star"
+                 ]
     },
     {
         "slug":  "echo-form",
@@ -1833,7 +2374,10 @@
         "baseText":  "Ethereal. The first card you play each turn is played an extra time.",
         "upgradedText":  "The first card you play each turn is played an extra time.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/echo-form.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/echo-form-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/echo-form-upgraded.webp",
+        "tags":  [
+                     "Ethereal"
+                 ]
     },
     {
         "slug":  "echoing-slash",
@@ -1845,7 +2389,10 @@
         "baseText":  "Deal 10 damage to ALL enemies. Repeat this effect for each enemy killed.",
         "upgradedText":  "Deal 13 damage to ALL enemies. Repeat this effect for each enemy killed.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/echoing-slash.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/echoing-slash-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/echoing-slash-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "eidolon",
@@ -1857,7 +2404,10 @@
         "baseText":  "Exhaust your Hand. If 9 cards were Exhausted this way, gain 1 Intangible.",
         "upgradedText":  "Cost changes from 2 to 1",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/eidolon.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/eidolon-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/eidolon-upgraded.webp",
+        "tags":  [
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "end-of-days",
@@ -1869,7 +2419,10 @@
         "baseText":  "Apply 29 Doom to ALL enemies. Kill enemies with at least as much Doom as HP.",
         "upgradedText":  "Apply 37 Doom to ALL enemies. Kill enemies with at least as much Doom as HP.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/end-of-days.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/end-of-days-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/end-of-days-upgraded.webp",
+        "tags":  [
+                     "Doom"
+                 ]
     },
     {
         "slug":  "energy-surge",
@@ -1881,7 +2434,11 @@
         "baseText":  "ALL players gain 2 Defect Energy. Exhaust.",
         "upgradedText":  "ALL players gain 3 Defect Energy. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/energy-surge.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/energy-surge-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/energy-surge-upgraded.webp",
+        "tags":  [
+                     "Energy",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "enfeebling-touch",
@@ -1893,7 +2450,11 @@
         "baseText":  "Ethereal. Enemy loses 8 Strength this turn.",
         "upgradedText":  "Ethereal. Enemy loses 11 Strength this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/enfeebling-touch.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/enfeebling-touch-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/enfeebling-touch-upgraded.webp",
+        "tags":  [
+                     "Strength",
+                     "Ethereal"
+                 ]
     },
     {
         "slug":  "enlightenment",
@@ -1905,7 +2466,10 @@
         "baseText":  "Reduce the cost of ALL cards in your Hand to 1 this turn. Exhaust.",
         "upgradedText":  "Reduce the cost of ALL cards in your Hand to 1 this combat. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/enlightenment.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/enlightenment-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/enlightenment-upgraded.webp",
+        "tags":  [
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "entrench",
@@ -1917,7 +2481,10 @@
         "baseText":  "Double your Block.",
         "upgradedText":  "Cost changes from 2 to 1",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/entrench.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/entrench-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/entrench-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "entropy",
@@ -1929,7 +2496,10 @@
         "baseText":  "At the start of your turn, Transform 1 card in your Hand.",
         "upgradedText":  "Innate. At the start of your turn, Transform 1 card in your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/entropy.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/entropy-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/entropy-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "envenom",
@@ -1941,7 +2511,11 @@
         "baseText":  "Whenever an Attack deals unblocked damage, apply 1 Poison.",
         "upgradedText":  "Whenever an Attack deals unblocked damage, apply 2 Poison.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/envenom.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/envenom-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/envenom-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Poison"
+                 ]
     },
     {
         "slug":  "equilibrium",
@@ -1953,7 +2527,11 @@
         "baseText":  "Gain 13 Block. Retain your Hand this turn.",
         "upgradedText":  "Gain 16 Block. Retain your Hand this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/equilibrium.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/equilibrium-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/equilibrium-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Retain"
+                 ]
     },
     {
         "slug":  "eradicate",
@@ -1965,7 +2543,11 @@
         "baseText":  "Retain. Deal 11 damage X times.",
         "upgradedText":  "Retain. Deal 14 damage X times.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/eradicate.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/eradicate-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/eradicate-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Retain"
+                 ]
     },
     {
         "slug":  "escape-plan",
@@ -1977,7 +2559,11 @@
         "baseText":  "Draw 1 card. If you draw a Skill, gain 3 Block.",
         "upgradedText":  "Draw 1 card. If you draw a Skill, gain 5 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/escape-plan.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/escape-plan-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/escape-plan-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Draw"
+                 ]
     },
     {
         "slug":  "eternal-armor",
@@ -1989,7 +2575,10 @@
         "baseText":  "Gain 9 Plating.",
         "upgradedText":  "Gain 12 Plating.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/eternal-armor.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/eternal-armor-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/eternal-armor-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "evil-eye",
@@ -2001,7 +2590,10 @@
         "baseText":  "Gain 8 Block. Gain another 8 Block if you have Exhausted a card this turn.",
         "upgradedText":  "Gain 11 Block. Gain another 11 Block if you have Exhausted a card this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/evil-eye.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/evil-eye-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/evil-eye-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "expect-a-fight",
@@ -2013,7 +2605,10 @@
         "baseText":  "Gain 1 Ironclad Energy for each Attack in your Hand. You cannot gain additional 1 Ironclad Energy this turn.",
         "upgradedText":  "Cost changes from 2 to 1",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/expect-a-fight.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/expect-a-fight-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/expect-a-fight-upgraded.webp",
+        "tags":  [
+                     "Energy"
+                 ]
     },
     {
         "slug":  "expertise",
@@ -2025,7 +2620,10 @@
         "baseText":  "Draw cards until you have 6 in your Hand.",
         "upgradedText":  "Draw cards until you have 7 in your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/expertise.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/expertise-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/expertise-upgraded.webp",
+        "tags":  [
+                     "Draw"
+                 ]
     },
     {
         "slug":  "expose",
@@ -2037,7 +2635,12 @@
         "baseText":  "Remove all Artifact and Block from the enemy. Apply 2 Vulnerable. Exhaust.",
         "upgradedText":  "Remove all Artifact and Block from the enemy. Apply 3 Vulnerable. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/expose.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/expose-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/expose-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Debuff",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "exterminate",
@@ -2049,7 +2652,10 @@
         "baseText":  "Deal 3 damage to ALL enemies 4 times.",
         "upgradedText":  "Deal 4 damage to ALL enemies 4 times.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/exterminate.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/exterminate-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/exterminate-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "falling-star",
@@ -2061,7 +2667,12 @@
         "baseText":  "Deal 8 damage. Apply 1 Weak. Apply 1 Vulnerable.",
         "upgradedText":  "Deal 12 damage. Apply 1 Weak. Apply 1 Vulnerable.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/falling-star.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/falling-star-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/falling-star-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Debuff",
+                     "Star"
+                 ]
     },
     {
         "slug":  "fan-of-knives",
@@ -2073,7 +2684,10 @@
         "baseText":  "Shivs now hit ALL enemies. Add 4 Shivs into your Hand.",
         "upgradedText":  "Shivs now hit ALL enemies. Add 5 Shivs into your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/fan-of-knives.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/fan-of-knives-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/fan-of-knives-upgraded.webp",
+        "tags":  [
+                     "Shiv"
+                 ]
     },
     {
         "slug":  "fasten",
@@ -2085,7 +2699,10 @@
         "baseText":  "Gain an additional 4 Block from Defend cards.",
         "upgradedText":  "Gain an additional 6 Block from Defend cards.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/fasten.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/fasten-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/fasten-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "fear",
@@ -2097,7 +2714,12 @@
         "baseText":  "Ethereal. Deal 7 damage. Apply 1 Vulnerable.",
         "upgradedText":  "Ethereal. Deal 8 damage. Apply 2 Vulnerable.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/fear.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/fear-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/fear-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Debuff",
+                     "Ethereal"
+                 ]
     },
     {
         "slug":  "feed",
@@ -2109,7 +2731,11 @@
         "baseText":  "Deal 10 damage. If Fatal, raise your Max HP by 3. Exhaust.",
         "upgradedText":  "Deal 12 damage. If Fatal, raise your Max HP by 4. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/feed.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/feed-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/feed-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "feeding-frenzy",
@@ -2121,7 +2747,10 @@
         "baseText":  "Gain 5 Strength this turn.",
         "upgradedText":  "Gain 7 Strength this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/feeding-frenzy.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/feeding-frenzy-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/feeding-frenzy-upgraded.webp",
+        "tags":  [
+                     "Strength"
+                 ]
     },
     {
         "slug":  "feel-no-pain",
@@ -2133,7 +2762,10 @@
         "baseText":  "Whenever a card is Exhausted, gain 3 Block.",
         "upgradedText":  "Whenever a card is Exhausted, gain 4 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/feel-no-pain.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/feel-no-pain-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/feel-no-pain-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "feral",
@@ -2145,7 +2777,10 @@
         "baseText":  "The first time you play a 01 Defect Energy Attack each turn, return it to your Hand.",
         "upgradedText":  "Cost changes from 2 to 1",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/feral.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/feral-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/feral-upgraded.webp",
+        "tags":  [
+                     "Energy"
+                 ]
     },
     {
         "slug":  "fetch",
@@ -2157,7 +2792,11 @@
         "baseText":  "Osty deals 3 damage. If this is the first time this card has been played this turn, draw 1 card.",
         "upgradedText":  "Osty deals 6 damage. If this is the first time this card has been played this turn, draw 1 card.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/fetch.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/fetch-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/fetch-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Draw"
+                 ]
     },
     {
         "slug":  "fiend-fire",
@@ -2169,7 +2808,11 @@
         "baseText":  "Exhaust your Hand. Deal 7 damage for each card Exhausted. Exhaust.",
         "upgradedText":  "Exhaust your Hand. Deal 10 damage for each card Exhausted. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/fiend-fire.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/fiend-fire-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/fiend-fire-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "fight-me",
@@ -2181,7 +2824,11 @@
         "baseText":  "Deal 5 damage twice. Gain 3 Strength. The enemy gains 1 Strength.",
         "upgradedText":  "Deal 6 damage twice. Gain 4 Strength. The enemy gains 1 Strength.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/fight-me.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/fight-me-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/fight-me-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Strength"
+                 ]
     },
     {
         "slug":  "fight-through",
@@ -2193,7 +2840,10 @@
         "baseText":  "Gain 13 Block. Add 2 Wounds into your Discard Pile.",
         "upgradedText":  "Gain 17 Block. Add 2 Wounds into your Discard Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/fight-through.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/fight-through-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/fight-through-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "finesse",
@@ -2205,7 +2855,11 @@
         "baseText":  "Gain 4 Block. Draw 1 card.",
         "upgradedText":  "Gain 7 Block. Draw 1 card.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/finesse.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/finesse-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/finesse-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Draw"
+                 ]
     },
     {
         "slug":  "finisher",
@@ -2217,7 +2871,10 @@
         "baseText":  "Deal 6 damage for each Attack already played this turn.",
         "upgradedText":  "Deal 8 damage for each Attack already played this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/finisher.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/finisher-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/finisher-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "fisticuffs",
@@ -2229,7 +2886,11 @@
         "baseText":  "Deal 7 damage. Gain Block equal to damage dealt.",
         "upgradedText":  "Deal 9 damage. Gain Block equal to damage dealt.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/fisticuffs.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/fisticuffs-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/fisticuffs-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Block"
+                 ]
     },
     {
         "slug":  "flak-cannon",
@@ -2241,7 +2902,11 @@
         "baseText":  "Exhaust ALL your Status cards. Deal 8 damage to a random enemy for each card Exhausted.",
         "upgradedText":  "Exhaust ALL your Status cards. Deal 11 damage to a random enemy for each card Exhausted.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/flak-cannon.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/flak-cannon-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/flak-cannon-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "flame-barrier",
@@ -2253,7 +2918,11 @@
         "baseText":  "Gain 12 Block. Whenever you are attacked this turn, deal 4 damage back.",
         "upgradedText":  "Gain 16 Block. Whenever you are attacked this turn, deal 6 damage back.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/flame-barrier.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/flame-barrier-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/flame-barrier-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Block"
+                 ]
     },
     {
         "slug":  "flanking",
@@ -2265,7 +2934,10 @@
         "baseText":  "The enemy takes double attack damage from other players this turn.",
         "upgradedText":  "Cost changes from 2 to 1",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/flanking.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/flanking-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/flanking-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "flash-of-steel",
@@ -2277,7 +2949,11 @@
         "baseText":  "Deal 5 damage. Draw 1 card.",
         "upgradedText":  "Deal 8 damage. Draw 1 card.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/flash-of-steel.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/flash-of-steel-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/flash-of-steel-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Draw"
+                 ]
     },
     {
         "slug":  "flatten",
@@ -2289,7 +2965,11 @@
         "baseText":  "Osty deals 12 damage. This card costs 0 1 Necrobinder Energy if Osty has attacked this turn.",
         "upgradedText":  "Osty deals 16 damage. This card costs 0 1 Necrobinder Energy if Osty has attacked this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/flatten.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/flatten-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/flatten-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Energy"
+                 ]
     },
     {
         "slug":  "flechettes",
@@ -2301,7 +2981,10 @@
         "baseText":  "Deal 5 damage for each Skill in your Hand.",
         "upgradedText":  "Deal 7 damage for each Skill in your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/flechettes.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/flechettes-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/flechettes-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "flick-flack",
@@ -2313,7 +2996,10 @@
         "baseText":  "Sly. Deal 6 damage to ALL enemies.",
         "upgradedText":  "Sly. Deal 8 damage to ALL enemies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/flick-flack.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/flick-flack-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/flick-flack-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "focused-strike",
@@ -2325,7 +3011,10 @@
         "baseText":  "Deal 9 damage. Gain 1 Focus this turn.",
         "upgradedText":  "Deal 11 damage. Gain 2 Focus this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/focused-strike.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/focused-strike-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/focused-strike-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "footwork",
@@ -2337,7 +3026,10 @@
         "baseText":  "Gain 2 Dexterity.",
         "upgradedText":  "Gain 3 Dexterity.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/footwork.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/footwork-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/footwork-upgraded.webp",
+        "tags":  [
+                     "Dexterity"
+                 ]
     },
     {
         "slug":  "foregone-conclusion",
@@ -2349,7 +3041,10 @@
         "baseText":  "Next turn, put 2 cards from your Draw Pile into your Hand.",
         "upgradedText":  "Next turn, put 3 cards from your Draw Pile into your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/foregone-conclusion.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/foregone-conclusion-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/foregone-conclusion-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "forgotten-ritual",
@@ -2361,7 +3056,11 @@
         "baseText":  "If you Exhausted a card this turn, gain 3 Ironclad Energy. Exhaust.",
         "upgradedText":  "If you Exhausted a card this turn, gain 41 Ironclad Energy. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/forgotten-ritual.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/forgotten-ritual-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/forgotten-ritual-upgraded.webp",
+        "tags":  [
+                     "Energy",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "friendship",
@@ -2373,7 +3072,11 @@
         "baseText":  "Lose 2 Strength. Gain 1 Necrobinder Energy at the start of each turn.",
         "upgradedText":  "Lose 1 Strength. Gain 1 Necrobinder Energy at the start of each turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/friendship.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/friendship-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/friendship-upgraded.webp",
+        "tags":  [
+                     "Strength",
+                     "Energy"
+                 ]
     },
     {
         "slug":  "ftl",
@@ -2385,7 +3088,11 @@
         "baseText":  "Deal 5 damage. If you have played fewer than 3 cards this turn, draw 1 card.",
         "upgradedText":  "Deal 6 damage. If you have played fewer than 4 cards this turn, draw 1 card.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/ftl.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/ftl-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/ftl-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Draw"
+                 ]
     },
     {
         "slug":  "fuel",
@@ -2397,7 +3104,12 @@
         "baseText":  "Gain 1 Colorless Energy. Draw 1 card. Exhaust.",
         "upgradedText":  "Gain 1 Colorless Energy. Draw 2 cards. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/fuel.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/fuel-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/fuel-upgraded.webp",
+        "tags":  [
+                     "Draw",
+                     "Energy",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "furnace",
@@ -2409,7 +3121,10 @@
         "baseText":  "At the start of your turn, Forge 5.",
         "upgradedText":  "At the start of your turn, Forge 7.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/furnace.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/furnace-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/furnace-upgraded.webp",
+        "tags":  [
+                     "Forge"
+                 ]
     },
     {
         "slug":  "fusion",
@@ -2421,7 +3136,11 @@
         "baseText":  "Channel 1 Plasma. Exhaust.",
         "upgradedText":  "Channel 1 Plasma.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/fusion.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/fusion-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/fusion-upgraded.webp",
+        "tags":  [
+                     "Exhaust",
+                     "Channel"
+                 ]
     },
     {
         "slug":  "gamma-blast",
@@ -2433,7 +3152,11 @@
         "baseText":  "Deal 13 damage. Apply 2 Weak. Apply 2 Vulnerable.",
         "upgradedText":  "Deal 18 damage. Apply 2 Weak. Apply 2 Vulnerable.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/gamma-blast.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/gamma-blast-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/gamma-blast-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Debuff"
+                 ]
     },
     {
         "slug":  "gang-up",
@@ -2445,7 +3168,10 @@
         "baseText":  "Deal 5 damage. Deals 5 additional damage for each time another player has attacked the enemy this turn.",
         "upgradedText":  "Deal 5 damage. Deals 7 additional damage for each time another player has attacked the enemy this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/gang-up.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/gang-up-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/gang-up-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "gather-light",
@@ -2457,7 +3183,12 @@
         "baseText":  "Gain 8 Block. Gain 1 Regent Star Energy.",
         "upgradedText":  "Gain 11 Block. Gain 1 Regent Star Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/gather-light.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/gather-light-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/gather-light-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Energy",
+                     "Star"
+                 ]
     },
     {
         "slug":  "genesis",
@@ -2469,7 +3200,11 @@
         "baseText":  "At the start of your turn, gain 2 Regent Star Energy.",
         "upgradedText":  "At the start of your turn, gain 3 Regent Star Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/genesis.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/genesis-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/genesis-upgraded.webp",
+        "tags":  [
+                     "Energy",
+                     "Star"
+                 ]
     },
     {
         "slug":  "genetic-algorithm",
@@ -2481,7 +3216,11 @@
         "baseText":  "Gain 1 Block. Permanently increase this card\u0027s Block by 3. Exhaust.",
         "upgradedText":  "Gain 1 Block. Permanently increase this card\u0027s Block by 4. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/genetic-algorithm.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/genetic-algorithm-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/genetic-algorithm-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "giant-rock",
@@ -2493,7 +3232,10 @@
         "baseText":  "Deal 16 damage.",
         "upgradedText":  "Deal 20 damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/giant-rock.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/giant-rock-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/giant-rock-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "glacier",
@@ -2505,7 +3247,11 @@
         "baseText":  "Gain 6 Block. Channel 2 Frost.",
         "upgradedText":  "Gain 9 Block. Channel 2 Frost.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/glacier.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/glacier-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/glacier-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Channel"
+                 ]
     },
     {
         "slug":  "glasswork",
@@ -2517,7 +3263,11 @@
         "baseText":  "Gain 5 Block. Channel 1 Glass.",
         "upgradedText":  "Gain 8 Block. Channel 1 Glass.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/glasswork.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/glasswork-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/glasswork-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Channel"
+                 ]
     },
     {
         "slug":  "glimmer",
@@ -2529,7 +3279,10 @@
         "baseText":  "Draw 3 cards. Put 1 card from your Hand on top of your Draw Pile.",
         "upgradedText":  "Draw 4 cards. Put 1 card from your Hand on top of your Draw Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/glimmer.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/glimmer-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/glimmer-upgraded.webp",
+        "tags":  [
+                     "Draw"
+                 ]
     },
     {
         "slug":  "glimpse-beyond",
@@ -2541,7 +3294,11 @@
         "baseText":  "ALL players add 3 Souls into their Draw Pile. Exhaust.",
         "upgradedText":  "ALL players add 4 Souls into their Draw Pile. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/glimpse-beyond.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/glimpse-beyond-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/glimpse-beyond-upgraded.webp",
+        "tags":  [
+                     "Exhaust",
+                     "Souls"
+                 ]
     },
     {
         "slug":  "glitterstream",
@@ -2553,7 +3310,10 @@
         "baseText":  "Gain 11 Block. Next turn, gain 5 Block.",
         "upgradedText":  "Gain 13 Block. Next turn, gain 7 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/glitterstream.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/glitterstream-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/glitterstream-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "glow",
@@ -2565,7 +3325,12 @@
         "baseText":  "Gain 1 Regent Star Energy. Draw 1 card. Next turn, draw 1 card.",
         "upgradedText":  "Gain 2 Regent Star Energy. Draw 1 card. Next turn, draw 1 card.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/glow.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/glow-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/glow-upgraded.webp",
+        "tags":  [
+                     "Draw",
+                     "Energy",
+                     "Star"
+                 ]
     },
     {
         "slug":  "go-for-the-eyes",
@@ -2577,7 +3342,11 @@
         "baseText":  "Deal 3 damage. If the enemy intends to attack, apply 1 Weak.",
         "upgradedText":  "Deal 4 damage. If the enemy intends to attack, apply 2 Weak.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/go-for-the-eyes.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/go-for-the-eyes-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/go-for-the-eyes-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Debuff"
+                 ]
     },
     {
         "slug":  "gold-axe",
@@ -2589,7 +3358,11 @@
         "baseText":  "Deal damage equal to the number of cards played this combat.",
         "upgradedText":  "Retain. Deal damage equal to the number of cards played this combat.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/gold-axe.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/gold-axe-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/gold-axe-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Retain"
+                 ]
     },
     {
         "slug":  "grand-finale",
@@ -2601,7 +3374,10 @@
         "baseText":  "Can only be played if there are no cards in your Draw Pile. Deal 60 damage to ALL enemies.",
         "upgradedText":  "Can only be played if there are no cards in your Draw Pile. Deal 75 damage to ALL enemies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/grand-finale.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/grand-finale-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/grand-finale-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "graveblast",
@@ -2613,7 +3389,11 @@
         "baseText":  "Deal 4 damage. Put a card from your Discard Pile into your Hand. Exhaust.",
         "upgradedText":  "Deal 6 damage. Put a card from your Discard Pile into your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/graveblast.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/graveblast-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/graveblast-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "grave-warden",
@@ -2625,7 +3405,11 @@
         "baseText":  "Gain 8 Block. Add a Soul into your Draw Pile.",
         "upgradedText":  "Gain 11 Block. Add a Soul into your Draw Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/grave-warden.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/grave-warden-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/grave-warden-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Souls"
+                 ]
     },
     {
         "slug":  "guards",
@@ -2637,7 +3421,10 @@
         "baseText":  "Transform any number of cards in your Hand into Minion Sacrifice. Exhaust.",
         "upgradedText":  "Transform any number of cards in your Hand into Minion Sacrifice+. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/guards.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/guards-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/guards-upgraded.webp",
+        "tags":  [
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "guiding-star",
@@ -2649,7 +3436,12 @@
         "baseText":  "Deal 12 damage. Draw 2 cards.",
         "upgradedText":  "Deal 13 damage. Draw 3 cards.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/guiding-star.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/guiding-star-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/guiding-star-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Draw",
+                     "Star"
+                 ]
     },
     {
         "slug":  "gunk-up",
@@ -2661,7 +3453,10 @@
         "baseText":  "Deal 4 damage 3 times. Add a Slimed into your Discard Pile.",
         "upgradedText":  "Deal 5 damage 3 times. Add a Slimed into your Discard Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/gunk-up.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/gunk-up-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/gunk-up-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "hailstorm",
@@ -2673,7 +3468,10 @@
         "baseText":  "At the end of your turn, if you have Frost, deal 6 damage to ALL enemies.",
         "upgradedText":  "At the end of your turn, if you have Frost, deal 8 damage to ALL enemies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/hailstorm.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hailstorm-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hailstorm-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "hammer-time",
@@ -2685,7 +3483,10 @@
         "baseText":  "Whenever you Forge, all allies Forge as well.",
         "upgradedText":  "Cost changes from 2 to 1",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/hammer-time.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hammer-time-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hammer-time-upgraded.webp",
+        "tags":  [
+                     "Forge"
+                 ]
     },
     {
         "slug":  "hand-of-greed",
@@ -2697,7 +3498,10 @@
         "baseText":  "Deal 20 damage. If Fatal, gain 20 Gold.",
         "upgradedText":  "Deal 25 damage. If Fatal, gain 25 Gold.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/hand-of-greed.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hand-of-greed-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hand-of-greed-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "hand-trick",
@@ -2709,7 +3513,10 @@
         "baseText":  "Gain 7 Block. Add Sly to a Skill in your Hand this turn.",
         "upgradedText":  "Gain 10 Block. Add Sly to a Skill in your Hand this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/hand-trick.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hand-trick-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hand-trick-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "hang",
@@ -2721,7 +3528,10 @@
         "baseText":  "Deal 10 damage. Double the damage ALL Hang cards deal to this enemy.",
         "upgradedText":  "Deal 13 damage. Double the damage ALL Hang cards deal to this enemy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/hang.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hang-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hang-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "haunt",
@@ -2733,7 +3543,10 @@
         "baseText":  "Whenever you play a Soul, a random enemy loses 6 HP.",
         "upgradedText":  "Whenever you play a Soul, a random enemy loses 8 HP.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/haunt.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/haunt-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/haunt-upgraded.webp",
+        "tags":  [
+                     "Souls"
+                 ]
     },
     {
         "slug":  "havoc",
@@ -2745,7 +3558,10 @@
         "baseText":  "Play the top card of your Draw Pile and Exhaust it.",
         "upgradedText":  "Cost changes from 1 to 0",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/havoc.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/havoc-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/havoc-upgraded.webp",
+        "tags":  [
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "haze",
@@ -2757,7 +3573,10 @@
         "baseText":  "Sly. Apply 4 Poison to ALL enemies.",
         "upgradedText":  "Sly. Apply 6 Poison to ALL enemies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/haze.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/haze-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/haze-upgraded.webp",
+        "tags":  [
+                     "Poison"
+                 ]
     },
     {
         "slug":  "headbutt",
@@ -2769,7 +3588,10 @@
         "baseText":  "Deal 9 damage. Put a card from your Discard Pile on top of your Draw Pile.",
         "upgradedText":  "Deal 12 damage. Put a card from your Discard Pile on top of your Draw Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/headbutt.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/headbutt-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/headbutt-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "heavenly-drill",
@@ -2781,7 +3603,10 @@
         "baseText":  "Deal 8 damage X times. Double X if it\u0027s 4 or more.",
         "upgradedText":  "Deal 10 damage X times. Double X if it\u0027s 4 or more.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/heavenly-drill.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/heavenly-drill-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/heavenly-drill-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "hegemony",
@@ -2793,7 +3618,11 @@
         "baseText":  "Deal 15 damage. Next turn, gain 2 Regent Energy.",
         "upgradedText":  "Deal 18 damage. Next turn, gain 3 Regent Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/hegemony.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hegemony-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hegemony-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Energy"
+                 ]
     },
     {
         "slug":  "heirloom-hammer",
@@ -2805,7 +3634,10 @@
         "baseText":  "Deal 20 damage. Choose a Colorless card in your Hand. Add a copy of that card into your Hand.",
         "upgradedText":  "Deal 25 damage. Choose a Colorless card in your Hand. Add a copy of that card into your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/heirloom-hammer.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/heirloom-hammer-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/heirloom-hammer-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "helix-drill",
@@ -2817,7 +3649,11 @@
         "baseText":  "Deal 3 damage for each 1 Defect Energy previously spent this turn.",
         "upgradedText":  "Deal 5 damage for each 1 Defect Energy previously spent this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/helix-drill.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/helix-drill-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/helix-drill-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Energy"
+                 ]
     },
     {
         "slug":  "hello-world",
@@ -2829,7 +3665,10 @@
         "baseText":  "At the start of your turn, add a random Common card into your Hand.",
         "upgradedText":  "Innate. At the start of your turn, add a random Common card into your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/hello-world.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hello-world-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hello-world-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "hellraiser",
@@ -2841,7 +3680,10 @@
         "baseText":  "Whenever you draw a card containing “Strike”, it is played against a random enemy.",
         "upgradedText":  "Cost changes from 2 to 1",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/hellraiser.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hellraiser-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hellraiser-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "hemokinesis",
@@ -2853,7 +3695,10 @@
         "baseText":  "Lose 2 HP. Deal 15 damage.",
         "upgradedText":  "Lose 2 HP. Deal 20 damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/hemokinesis.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hemokinesis-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hemokinesis-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "hidden-cache",
@@ -2865,7 +3710,11 @@
         "baseText":  "Gain 1 Regent Star Energy. Next turn, gain 3 Regent Star Energy.",
         "upgradedText":  "Gain 1 Regent Star Energy. Next turn, gain 4 Regent Star Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/hidden-cache.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hidden-cache-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hidden-cache-upgraded.webp",
+        "tags":  [
+                     "Energy",
+                     "Star"
+                 ]
     },
     {
         "slug":  "hidden-daggers",
@@ -2877,7 +3726,10 @@
         "baseText":  "Discard 2 cards. Add 2 Shivs into your Hand.",
         "upgradedText":  "Discard 2 cards. Add 2 Shivs+ into your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/hidden-daggers.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hidden-daggers-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hidden-daggers-upgraded.webp",
+        "tags":  [
+                     "Shiv"
+                 ]
     },
     {
         "slug":  "hidden-gem",
@@ -2889,7 +3741,10 @@
         "baseText":  "A random card without Replay in your Draw Pile gains Replay 2.",
         "upgradedText":  "A random card without Replay in your Draw Pile gains Replay 3.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/hidden-gem.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hidden-gem-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hidden-gem-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "high-five",
@@ -2901,7 +3756,11 @@
         "baseText":  "Osty deals 11 damage and applies 2 Vulnerable to ALL enemies.",
         "upgradedText":  "Osty deals 13 damage and applies 3 Vulnerable to ALL enemies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/high-five.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/high-five-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/high-five-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Debuff"
+                 ]
     },
     {
         "slug":  "hologram",
@@ -2913,7 +3772,11 @@
         "baseText":  "Gain 3 Block. Put a card from your Discard Pile into your Hand. Exhaust.",
         "upgradedText":  "Gain 5 Block. Put a card from your Discard Pile into your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/hologram.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hologram-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hologram-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "hotfix",
@@ -2925,7 +3788,10 @@
         "baseText":  "Gain 2 Focus this turn. Exhaust.",
         "upgradedText":  "Gain 2 Focus this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/hotfix.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hotfix-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hotfix-upgraded.webp",
+        "tags":  [
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "howl-from-beyond",
@@ -2937,7 +3803,11 @@
         "baseText":  "Deal 16 damage to ALL enemies. At the end of your turn, if this is in your Exhaust Pile, play it.",
         "upgradedText":  "Deal 21 damage to ALL enemies. At the end of your turn, if this is in your Exhaust Pile, play it.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/howl-from-beyond.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/howl-from-beyond-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/howl-from-beyond-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "huddle-up",
@@ -2949,7 +3819,11 @@
         "baseText":  "ALL players draw 2 cards. Exhaust.",
         "upgradedText":  "ALL players draw 3 cards. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/huddle-up.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/huddle-up-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/huddle-up-upgraded.webp",
+        "tags":  [
+                     "Draw",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "hyperbeam",
@@ -2961,7 +3835,10 @@
         "baseText":  "Deal 28 damage to ALL enemies. Lose 3 Focus.",
         "upgradedText":  "Deal 36 damage to ALL enemies. Lose 3 Focus.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/hyperbeam.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hyperbeam-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/hyperbeam-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "i-am-invincible",
@@ -2973,7 +3850,10 @@
         "baseText":  "Gain 10 Block. At the end of your turn, if this is on top of your Draw Pile, play it.",
         "upgradedText":  "Gain 13 Block. At the end of your turn, if this is on top of your Draw Pile, play it.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/i-am-invincible.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/i-am-invincible-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/i-am-invincible-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "ice-lance",
@@ -2985,7 +3865,11 @@
         "baseText":  "Deal 19 damage. Channel 3 Frost.",
         "upgradedText":  "Deal 24 damage. Channel 3 Frost.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/ice-lance.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/ice-lance-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/ice-lance-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Channel"
+                 ]
     },
     {
         "slug":  "ignition",
@@ -2997,7 +3881,11 @@
         "baseText":  "Another player Channels Plasma. Exhaust.",
         "upgradedText":  "Another player Channels Plasma.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/ignition.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/ignition-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/ignition-upgraded.webp",
+        "tags":  [
+                     "Exhaust",
+                     "Channel"
+                 ]
     },
     {
         "slug":  "impatience",
@@ -3009,7 +3897,10 @@
         "baseText":  "If you have no Attacks in your Hand, draw 2 cards.",
         "upgradedText":  "If you have no Attacks in your Hand, draw 3 cards.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/impatience.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/impatience-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/impatience-upgraded.webp",
+        "tags":  [
+                     "Draw"
+                 ]
     },
     {
         "slug":  "impervious",
@@ -3021,7 +3912,11 @@
         "baseText":  "Gain 30 Block. Exhaust.",
         "upgradedText":  "Gain 40 Block. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/impervious.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/impervious-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/impervious-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "infernal-blade",
@@ -3033,7 +3928,10 @@
         "baseText":  "Add a random Attack into your Hand. It\u0027s free to play this turn. Exhaust.",
         "upgradedText":  "Cost changes from 1 to 0",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/infernal-blade.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/infernal-blade-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/infernal-blade-upgraded.webp",
+        "tags":  [
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "inferno",
@@ -3045,7 +3943,10 @@
         "baseText":  "At the start of your turn, lose 1 HP. Whenever you lose HP on your turn, deal 6 damage to ALL enemies.",
         "upgradedText":  "At the start of your turn, lose 1 HP. Whenever you lose HP on your turn, deal 9 damage to ALL enemies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/inferno.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/inferno-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/inferno-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "infinite-blades",
@@ -3057,7 +3958,10 @@
         "baseText":  "At the start of your turn, add 1 Shiv into your Hand.",
         "upgradedText":  "Innate. At the start of your turn, add 1 Shiv into your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/infinite-blades.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/infinite-blades-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/infinite-blades-upgraded.webp",
+        "tags":  [
+                     "Shiv"
+                 ]
     },
     {
         "slug":  "inflame",
@@ -3069,7 +3973,10 @@
         "baseText":  "Gain 2 Strength.",
         "upgradedText":  "Gain 3 Strength.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/inflame.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/inflame-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/inflame-upgraded.webp",
+        "tags":  [
+                     "Strength"
+                 ]
     },
     {
         "slug":  "intercept",
@@ -3081,7 +3988,10 @@
         "baseText":  "Gain 9 Block. Redirect all incoming attacks that would be dealt to another player this turn to you.",
         "upgradedText":  "Gain 13 Block. Redirect all incoming attacks that would be dealt to another player this turn to you.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/intercept.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/intercept-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/intercept-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "invoke",
@@ -3093,7 +4003,11 @@
         "baseText":  "Next turn, Summon 2 and gain 2 Necrobinder Energy.",
         "upgradedText":  "Next turn, Summon 3 and gain 3 Necrobinder Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/invoke.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/invoke-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/invoke-upgraded.webp",
+        "tags":  [
+                     "Energy",
+                     "Summon"
+                 ]
     },
     {
         "slug":  "iron-wave",
@@ -3105,7 +4019,11 @@
         "baseText":  "Gain 5 Block. Deal 5 damage.",
         "upgradedText":  "Gain 7 Block. Deal 7 damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/iron-wave.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/iron-wave-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/iron-wave-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Block"
+                 ]
     },
     {
         "slug":  "iteration",
@@ -3117,7 +4035,10 @@
         "baseText":  "The first time you draw a Status each turn, draw 2 cards.",
         "upgradedText":  "The first time you draw a Status each turn, draw 3 cards.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/iteration.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/iteration-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/iteration-upgraded.webp",
+        "tags":  [
+                     "Draw"
+                 ]
     },
     {
         "slug":  "jack-of-all-trades",
@@ -3129,7 +4050,10 @@
         "baseText":  "Add 1 random Colorless card into your Hand. Exhaust.",
         "upgradedText":  "Add 2 random Colorless cards into your Hand. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/jack-of-all-trades.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/jack-of-all-trades-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/jack-of-all-trades-upgraded.webp",
+        "tags":  [
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "jackpot",
@@ -3141,7 +4065,11 @@
         "baseText":  "Deal 25 damage. Add 3 random 01 Colorless Energy cards into your Hand.",
         "upgradedText":  "Deal 30 damage. Add 3 random Upgraded 01 Colorless Energy cards into your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/jackpot.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/jackpot-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/jackpot-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Energy"
+                 ]
     },
     {
         "slug":  "juggernaut",
@@ -3153,7 +4081,11 @@
         "baseText":  "Whenever you gain Block, deal 6 damage to a random enemy.",
         "upgradedText":  "Whenever you gain Block, deal 8 damage to a random enemy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/juggernaut.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/juggernaut-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/juggernaut-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Block"
+                 ]
     },
     {
         "slug":  "juggling",
@@ -3165,7 +4097,10 @@
         "baseText":  "Add a copy of the third Attack you play each turn into your Hand.",
         "upgradedText":  "Innate. Add a copy of the third Attack you play each turn into your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/juggling.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/juggling-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/juggling-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "kingly-kick",
@@ -3177,7 +4112,10 @@
         "baseText":  "Deal 27 damage. Whenever you draw this card, reduce its cost by 1.",
         "upgradedText":  "Deal 35 damage. Whenever you draw this card, reduce its cost by 1.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/kingly-kick.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/kingly-kick-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/kingly-kick-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "kingly-punch",
@@ -3189,7 +4127,10 @@
         "baseText":  "Deal 8 damage. Whenever you draw this card, increase its damage by 4 this combat.",
         "upgradedText":  "Deal 10 damage. Whenever you draw this card, increase its damage by 6 this combat.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/kingly-punch.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/kingly-punch-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/kingly-punch-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "knife-trap",
@@ -3201,7 +4142,11 @@
         "baseText":  "Play every Shiv in your Exhaust Pile on the enemy.",
         "upgradedText":  "Upgrade and play every Shiv in your Exhaust Pile on the enemy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/knife-trap.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/knife-trap-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/knife-trap-upgraded.webp",
+        "tags":  [
+                     "Exhaust",
+                     "Shiv"
+                 ]
     },
     {
         "slug":  "knockdown",
@@ -3213,7 +4158,10 @@
         "baseText":  "Deal 10 damage. The enemy takes double damage from other players this turn.",
         "upgradedText":  "Deal 14 damage. The enemy takes triple damage from other players this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/knockdown.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/knockdown-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/knockdown-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "knockout-blow",
@@ -3225,7 +4173,12 @@
         "baseText":  "Deal 30 damage. If this kills an enemy, gain 5 Regent Star Energy.",
         "upgradedText":  "Deal 38 damage. If this kills an enemy, gain 5 Regent Star Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/knockout-blow.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/knockout-blow-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/knockout-blow-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Energy",
+                     "Star"
+                 ]
     },
     {
         "slug":  "know-thy-place",
@@ -3237,7 +4190,11 @@
         "baseText":  "Apply 1 Weak. Apply 1 Vulnerable. Exhaust.",
         "upgradedText":  "Apply 1 Weak. Apply 1 Vulnerable.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/know-thy-place.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/know-thy-place-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/know-thy-place-upgraded.webp",
+        "tags":  [
+                     "Debuff",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "lantern-key",
@@ -3249,7 +4206,10 @@
         "baseText":  "Unplayable. Unlocks a special event in the next Act.",
         "upgradedText":  null,
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/lantern-key.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/lantern-key-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/lantern-key-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "largesse",
@@ -3261,7 +4221,10 @@
         "baseText":  "Another player adds 1 random Colorless card to their Hand.",
         "upgradedText":  "Another player adds 1 random Upgraded Colorless card to their Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/largesse.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/largesse-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/largesse-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "leading-strike",
@@ -3273,7 +4236,11 @@
         "baseText":  "Deal 3 damage. Add 2 Shivs into your Hand.",
         "upgradedText":  "Deal 6 damage. Add 2 Shivs into your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/leading-strike.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/leading-strike-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/leading-strike-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Shiv"
+                 ]
     },
     {
         "slug":  "leap",
@@ -3285,7 +4252,10 @@
         "baseText":  "Gain 9 Block.",
         "upgradedText":  "Gain 12 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/leap.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/leap-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/leap-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "legion-of-bone",
@@ -3297,7 +4267,11 @@
         "baseText":  "ALL players Summon 6. Exhaust.",
         "upgradedText":  "ALL players Summon 8. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/legion-of-bone.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/legion-of-bone-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/legion-of-bone-upgraded.webp",
+        "tags":  [
+                     "Exhaust",
+                     "Summon"
+                 ]
     },
     {
         "slug":  "leg-sweep",
@@ -3309,7 +4283,11 @@
         "baseText":  "Apply 2 Weak. Gain 11 Block.",
         "upgradedText":  "Apply 3 Weak. Gain 14 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/leg-sweep.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/leg-sweep-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/leg-sweep-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Debuff"
+                 ]
     },
     {
         "slug":  "lethality",
@@ -3321,7 +4299,11 @@
         "baseText":  "Ethereal. The first Attack each turn deals 50% additional damage.",
         "upgradedText":  "Ethereal. The first Attack each turn deals 75% additional damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/lethality.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/lethality-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/lethality-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Ethereal"
+                 ]
     },
     {
         "slug":  "lift",
@@ -3333,7 +4315,10 @@
         "baseText":  "Give another player 11 Block.",
         "upgradedText":  "Give another player 16 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/lift.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/lift-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/lift-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "lightning-rod",
@@ -3345,7 +4330,11 @@
         "baseText":  "Gain 4 Block. At the start of the next 2 turns, Channel 1 Lightning.",
         "upgradedText":  "Gain 7 Block. At the start of the next 2 turns, Channel 1 Lightning.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/lightning-rod.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/lightning-rod-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/lightning-rod-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Channel"
+                 ]
     },
     {
         "slug":  "loop",
@@ -3357,7 +4346,10 @@
         "baseText":  "At the start of your turn, trigger the passive ability of your rightmost Orb.",
         "upgradedText":  "At the start of your turn, trigger the passive ability of your rightmost Orb 2 times.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/loop.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/loop-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/loop-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "luminesce",
@@ -3369,7 +4361,12 @@
         "baseText":  "Retain. Gain 2 Colorless Energy. Exhaust.",
         "upgradedText":  "Retain. Gain 3 Colorless Energy. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/luminesce.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/luminesce-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/luminesce-upgraded.webp",
+        "tags":  [
+                     "Energy",
+                     "Retain",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "lunar-blast",
@@ -3381,7 +4378,10 @@
         "baseText":  "Deal 4 damage for each Skill already played this turn.",
         "upgradedText":  "Deal 5 damage for each Skill already played this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/lunar-blast.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/lunar-blast-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/lunar-blast-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "machine-learning",
@@ -3393,7 +4393,10 @@
         "baseText":  "At the start of your turn, draw 1 additional card.",
         "upgradedText":  "Innate. At the start of your turn, draw 1 additional card.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/machine-learning.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/machine-learning-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/machine-learning-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "mad-science-chaos",
@@ -3405,7 +4408,10 @@
         "baseText":  "Gain 8 Block. Add a random card into your Hand. It\u0027s free to play this turn.",
         "upgradedText":  "Innate. Gain 8 Block. Add a random card into your Hand. It\u0027s free to play this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-chaos.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-chaos-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-chaos-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "mad-science-choking",
@@ -3417,7 +4423,10 @@
         "baseText":  "Deal 12 damage. Whenever you play a card this turn, the enemy loses 6 HP.",
         "upgradedText":  "Innate. Deal 12 damage. Whenever you play a card this turn, the enemy loses 6 HP.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-choking.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-choking-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-choking-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "mad-science-curious",
@@ -3429,7 +4438,10 @@
         "baseText":  "Powers cost 1 1 Colorless Energy less.",
         "upgradedText":  "Innate. Powers cost 1 1 Colorless Energy less.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-curious.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-curious-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-curious-upgraded.webp",
+        "tags":  [
+                     "Energy"
+                 ]
     },
     {
         "slug":  "mad-science-energized",
@@ -3441,7 +4453,11 @@
         "baseText":  "Gain 8 Block. Gain 2 Colorless Energy.",
         "upgradedText":  "Innate. Gain 8 Block. Gain 2 Colorless Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-energized.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-energized-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-energized-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Energy"
+                 ]
     },
     {
         "slug":  "mad-science-expertise",
@@ -3453,7 +4469,11 @@
         "baseText":  "Gain 2 Strength. Gain 2 Dexterity.",
         "upgradedText":  "Innate. Gain 2 Strength. Gain 2 Dexterity.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-expertise.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-expertise-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-expertise-upgraded.webp",
+        "tags":  [
+                     "Strength",
+                     "Dexterity"
+                 ]
     },
     {
         "slug":  "mad-science-improvement",
@@ -3465,7 +4485,10 @@
         "baseText":  "At the end of combat, Upgrade a random card.",
         "upgradedText":  "Innate. At the end of combat, Upgrade a random card.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-improvement.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-improvement-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-improvement-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "mad-science-sapping",
@@ -3477,7 +4500,11 @@
         "baseText":  "Deal 12 damage. Apply 2 Weak. Apply 2 Vulnerable.",
         "upgradedText":  "Innate. Deal 12 damage. Apply 2 Weak. Apply 2 Vulnerable.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-sapping.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-sapping-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-sapping-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Debuff"
+                 ]
     },
     {
         "slug":  "mad-science-violence",
@@ -3489,7 +4516,10 @@
         "baseText":  "Deal 12 damage 3 times.",
         "upgradedText":  "Innate. Deal 12 damage 3 times.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-violence.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-violence-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-violence-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "mad-science-wisdom",
@@ -3501,7 +4531,11 @@
         "baseText":  "Gain 8 Block. Draw 3 cards.",
         "upgradedText":  "Innate. Gain 8 Block. Draw 3 cards.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-wisdom.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-wisdom-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mad-science-wisdom-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Draw"
+                 ]
     },
     {
         "slug":  "make-it-so",
@@ -3513,7 +4547,10 @@
         "baseText":  "Deal 6 damage. Every 3 Skills you play in a turn, put this into your Hand.",
         "upgradedText":  "Deal 9 damage. Every 3 Skills you play in a turn, put this into your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/make-it-so.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/make-it-so-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/make-it-so-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "malaise",
@@ -3525,7 +4562,12 @@
         "baseText":  "Enemy loses X Strength. Apply X Weak. Exhaust.",
         "upgradedText":  "Enemy loses X+1 Strength. Apply X+1 Weak. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/malaise.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/malaise-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/malaise-upgraded.webp",
+        "tags":  [
+                     "Strength",
+                     "Debuff",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "mangle",
@@ -3537,7 +4579,11 @@
         "baseText":  "Deal 15 damage. Enemy loses 10 Strength this turn.",
         "upgradedText":  "Deal 20 damage. Enemy loses 15 Strength this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/mangle.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mangle-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mangle-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Strength"
+                 ]
     },
     {
         "slug":  "manifest-authority",
@@ -3549,7 +4595,10 @@
         "baseText":  "Gain 7 Block. Add 1 random Colorless card into your Hand.",
         "upgradedText":  "Gain 8 Block. Add 1 random Upgraded Colorless card into your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/manifest-authority.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/manifest-authority-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/manifest-authority-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "master-of-strategy",
@@ -3561,7 +4610,11 @@
         "baseText":  "Draw 3 cards. Exhaust.",
         "upgradedText":  "Draw 4 cards. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/master-of-strategy.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/master-of-strategy-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/master-of-strategy-upgraded.webp",
+        "tags":  [
+                     "Draw",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "master-planner",
@@ -3573,7 +4626,10 @@
         "baseText":  "When you play a Skill, it gains Sly.",
         "upgradedText":  "Cost changes from 2 to 1",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/master-planner.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/master-planner-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/master-planner-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "mayhem",
@@ -3585,7 +4641,10 @@
         "baseText":  "At the start of your turn, play the top card of your Draw Pile.",
         "upgradedText":  "Cost changes from 2 to 1",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/mayhem.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mayhem-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mayhem-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "melancholy",
@@ -3597,7 +4656,11 @@
         "baseText":  "Gain 13 Block. Reduce this card\u0027s cost by 1 Necrobinder Energy whenever ANYONE dies.",
         "upgradedText":  "Gain 17 Block. Reduce this card\u0027s cost by 1 Necrobinder Energy whenever ANYONE dies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/melancholy.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/melancholy-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/melancholy-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Energy"
+                 ]
     },
     {
         "slug":  "memento-mori",
@@ -3609,7 +4672,10 @@
         "baseText":  "Deal 9 damage. Deals 4 additional damage for each card discarded this turn.",
         "upgradedText":  "Deal 11 damage. Deals 5 additional damage for each card discarded this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/memento-mori.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/memento-mori-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/memento-mori-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "metamorphosis",
@@ -3621,7 +4687,10 @@
         "baseText":  "Add 3 random Attacks into your Draw Pile. They\u0027re free to play this combat. Exhaust.",
         "upgradedText":  "Add 5 random Attacks into your Draw Pile. They\u0027re free to play this combat. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/metamorphosis.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/metamorphosis-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/metamorphosis-upgraded.webp",
+        "tags":  [
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "meteor-strike",
@@ -3633,7 +4702,11 @@
         "baseText":  "Deal 24 damage. Channel 3 Plasma.",
         "upgradedText":  "Deal 30 damage. Channel 3 Plasma.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/meteor-strike.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/meteor-strike-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/meteor-strike-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Channel"
+                 ]
     },
     {
         "slug":  "mimic",
@@ -3645,7 +4718,11 @@
         "baseText":  "Gain Block equal to the Block on another player. Exhaust.",
         "upgradedText":  "Gain Block equal to the Block on another player.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/mimic.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mimic-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mimic-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "mind-blast",
@@ -3657,7 +4734,10 @@
         "baseText":  "Innate. Deal damage equal to the number of cards in your Draw Pile.",
         "upgradedText":  "Cost changes from 1 to 0",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/mind-blast.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mind-blast-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mind-blast-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "minion-dive-bomb",
@@ -3669,7 +4749,11 @@
         "baseText":  "Deal 13 damage. Exhaust.",
         "upgradedText":  "Deal 16 damage. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/minion-dive-bomb.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/minion-dive-bomb-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/minion-dive-bomb-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "minion-sacrifice",
@@ -3681,7 +4765,11 @@
         "baseText":  "Gain 8 Block. Exhaust.",
         "upgradedText":  "Gain 11 Block. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/minion-sacrifice.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/minion-sacrifice-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/minion-sacrifice-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "minion-strike",
@@ -3693,7 +4781,12 @@
         "baseText":  "Deal 6 damage. Draw 1 card. Exhaust.",
         "upgradedText":  "Deal 9 damage. Draw 1 card. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/minion-strike.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/minion-strike-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/minion-strike-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Draw",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "mirage",
@@ -3705,7 +4798,12 @@
         "baseText":  "Gain Block equal to Poison on ALL enemies. Exhaust.",
         "upgradedText":  "Cost changes from 1 to 0",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/mirage.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mirage-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/mirage-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Exhaust",
+                     "Poison"
+                 ]
     },
     {
         "slug":  "misery",
@@ -3717,7 +4815,11 @@
         "baseText":  "Deal 7 damage. Apply any debuffs on the enemy to ALL other enemies.",
         "upgradedText":  "Retain. Deal 9 damage. Apply any debuffs on the enemy to ALL other enemies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/misery.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/misery-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/misery-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Retain"
+                 ]
     },
     {
         "slug":  "modded",
@@ -3729,7 +4831,10 @@
         "baseText":  "Gain 1 Orb Slot. Draw 1 card. Increase this card\u0027s cost by 1.",
         "upgradedText":  "Gain 1 Orb Slot. Draw 2 cards. Increase this card\u0027s cost by 1.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/modded.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/modded-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/modded-upgraded.webp",
+        "tags":  [
+                     "Draw"
+                 ]
     },
     {
         "slug":  "molten-fist",
@@ -3741,7 +4846,12 @@
         "baseText":  "Deal 10 damage. Double the enemy\u0027s Vulnerable. Exhaust.",
         "upgradedText":  "Deal 14 damage. Double the enemy\u0027s Vulnerable. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/molten-fist.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/molten-fist-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/molten-fist-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Debuff",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "momentum-strike",
@@ -3753,7 +4863,11 @@
         "baseText":  "Deal 10 damage. Reduce this card\u0027s cost to 0 1 Defect Energy.",
         "upgradedText":  "Deal 13 damage. Reduce this card\u0027s cost to 0 1 Defect Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/momentum-strike.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/momentum-strike-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/momentum-strike-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Energy"
+                 ]
     },
     {
         "slug":  "monarchs-gaze",
@@ -3765,7 +4879,10 @@
         "baseText":  "Whenever you attack an enemy, it loses 1 Strength this turn.",
         "upgradedText":  "Cost changes from 2 to 1",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/monarchs-gaze.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/monarchs-gaze-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/monarchs-gaze-upgraded.webp",
+        "tags":  [
+                     "Strength"
+                 ]
     },
     {
         "slug":  "monologue",
@@ -3777,7 +4894,11 @@
         "baseText":  "Whenever you play a card this turn, gain 1 Strength this turn.",
         "upgradedText":  "Retain. Whenever you play a card this turn, gain 1 Strength this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/monologue.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/monologue-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/monologue-upgraded.webp",
+        "tags":  [
+                     "Strength",
+                     "Retain"
+                 ]
     },
     {
         "slug":  "multi-cast",
@@ -3789,7 +4910,10 @@
         "baseText":  "Evoke your rightmost Orb X times.",
         "upgradedText":  "Evoke your rightmost Orb X+1 times.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/multi-cast.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/multi-cast-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/multi-cast-upgraded.webp",
+        "tags":  [
+                     "Evoke"
+                 ]
     },
     {
         "slug":  "murder",
@@ -3801,7 +4925,10 @@
         "baseText":  "Deal 1 damage. Deals 1 additional damage for each card drawn this combat.",
         "upgradedText":  "Cost changes from 3 to 2",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/murder.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/murder-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/murder-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "necro-mastery",
@@ -3813,7 +4940,10 @@
         "baseText":  "Summon 5. Whenever Osty loses HP, ALL enemies lose that much HP as well.",
         "upgradedText":  "Summon 8. Whenever Osty loses HP, ALL enemies lose that much HP as well.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/necro-mastery.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/necro-mastery-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/necro-mastery-upgraded.webp",
+        "tags":  [
+                     "Summon"
+                 ]
     },
     {
         "slug":  "negative-pulse",
@@ -3825,7 +4955,11 @@
         "baseText":  "Gain 5 Block. Apply 7 Doom to ALL enemies.",
         "upgradedText":  "Gain 6 Block. Apply 11 Doom to ALL enemies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/negative-pulse.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/negative-pulse-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/negative-pulse-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Doom"
+                 ]
     },
     {
         "slug":  "neurosurge",
@@ -3837,7 +4971,12 @@
         "baseText":  "Gain 3 Necrobinder Energy. Draw 2 cards. At the start of your turn, apply 3 Doom to yourself.",
         "upgradedText":  "Gain 41 Necrobinder Energy. Draw 2 cards. At the start of your turn, apply 3 Doom to yourself.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/neurosurge.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/neurosurge-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/neurosurge-upgraded.webp",
+        "tags":  [
+                     "Draw",
+                     "Energy",
+                     "Doom"
+                 ]
     },
     {
         "slug":  "neutralize",
@@ -3849,7 +4988,11 @@
         "baseText":  "Deal 3 damage. Apply 1 Weak.",
         "upgradedText":  "Deal 4 damage. Apply 2 Weak.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/neutralize.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/neutralize-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/neutralize-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Debuff"
+                 ]
     },
     {
         "slug":  "neutron-aegis",
@@ -3861,7 +5004,10 @@
         "baseText":  "Gain 8 Plating.",
         "upgradedText":  "Gain 11 Plating.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/neutron-aegis.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/neutron-aegis-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/neutron-aegis-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "nightmare",
@@ -3873,7 +5019,10 @@
         "baseText":  "Choose a card. Next turn, add 3 copies of that card into your Hand. Exhaust.",
         "upgradedText":  "Cost changes from 3 to 2",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/nightmare.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/nightmare-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/nightmare-upgraded.webp",
+        "tags":  [
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "no-escape",
@@ -3885,7 +5034,10 @@
         "baseText":  "Apply 10 Doom, plus an additional 5 Doom for every 10 Doom already on this enemy.",
         "upgradedText":  "Apply 15 Doom, plus an additional 5 Doom for every 10 Doom already on this enemy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/no-escape.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/no-escape-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/no-escape-upgraded.webp",
+        "tags":  [
+                     "Doom"
+                 ]
     },
     {
         "slug":  "nostalgia",
@@ -3897,7 +5049,10 @@
         "baseText":  "The first Attack or Skill you play each turn is placed on top of your Draw Pile.",
         "upgradedText":  "Cost changes from 1 to 0",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/nostalgia.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/nostalgia-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/nostalgia-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "not-yet",
@@ -3909,7 +5064,10 @@
         "baseText":  "Heal 10 HP. Exhaust.",
         "upgradedText":  "Heal 13 HP. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/not-yet.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/not-yet-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/not-yet-upgraded.webp",
+        "tags":  [
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "noxious-fumes",
@@ -3921,7 +5079,10 @@
         "baseText":  "At the start of your turn, apply 2 Poison to ALL enemies.",
         "upgradedText":  "At the start of your turn, apply 3 Poison to ALL enemies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/noxious-fumes.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/noxious-fumes-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/noxious-fumes-upgraded.webp",
+        "tags":  [
+                     "Poison"
+                 ]
     },
     {
         "slug":  "null",
@@ -3933,7 +5094,12 @@
         "baseText":  "Deal 10 damage. Apply 2 Weak. Channel 1 Dark.",
         "upgradedText":  "Deal 13 damage. Apply 3 Weak. Channel 1 Dark.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/null.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/null-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/null-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Debuff",
+                     "Channel"
+                 ]
     },
     {
         "slug":  "oblivion",
@@ -3945,7 +5111,10 @@
         "baseText":  "Whenever you play a card this turn, apply 3 Doom to the enemy.",
         "upgradedText":  "Whenever you play a card this turn, apply 4 Doom to the enemy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/oblivion.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/oblivion-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/oblivion-upgraded.webp",
+        "tags":  [
+                     "Doom"
+                 ]
     },
     {
         "slug":  "offering",
@@ -3957,7 +5126,12 @@
         "baseText":  "Lose 6 HP. Gain 2 Ironclad Energy. Draw 3 cards. Exhaust.",
         "upgradedText":  "Lose 6 HP. Gain 2 Ironclad Energy. Draw 5 cards. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/offering.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/offering-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/offering-upgraded.webp",
+        "tags":  [
+                     "Draw",
+                     "Energy",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "omnislice",
@@ -3969,7 +5143,10 @@
         "baseText":  "Deal 8 damage. Damage ALL other enemies equal to the damage dealt.",
         "upgradedText":  "Deal 11 damage. Damage ALL other enemies equal to the damage dealt.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/omnislice.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/omnislice-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/omnislice-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "one-two-punch",
@@ -3981,7 +5158,10 @@
         "baseText":  "This turn, your next Attack is played an extra time.",
         "upgradedText":  "This turn, your next 2 Attacks are played an extra time.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/one-two-punch.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/one-two-punch-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/one-two-punch-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "orbit",
@@ -3993,7 +5173,10 @@
         "baseText":  "Every 41 Regent Energy you spend, gain 1 Regent Energy.",
         "upgradedText":  "Cost changes from 2 to 1",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/orbit.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/orbit-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/orbit-upgraded.webp",
+        "tags":  [
+                     "Energy"
+                 ]
     },
     {
         "slug":  "outbreak",
@@ -4005,7 +5188,11 @@
         "baseText":  "Every 3 times you apply Poison, deal 11 damage to ALL enemies.",
         "upgradedText":  "Every 3 times you apply Poison, deal 15 damage to ALL enemies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/outbreak.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/outbreak-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/outbreak-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Poison"
+                 ]
     },
     {
         "slug":  "outmaneuver",
@@ -4017,7 +5204,10 @@
         "baseText":  "Next turn, gain 2 Silent Energy.",
         "upgradedText":  "Next turn, gain 3 Silent Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/outmaneuver.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/outmaneuver-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/outmaneuver-upgraded.webp",
+        "tags":  [
+                     "Energy"
+                 ]
     },
     {
         "slug":  "overclock",
@@ -4029,7 +5219,10 @@
         "baseText":  "Draw 2 cards. Add a Burn into your Discard Pile.",
         "upgradedText":  "Draw 3 cards. Add a Burn into your Discard Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/overclock.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/overclock-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/overclock-upgraded.webp",
+        "tags":  [
+                     "Draw"
+                 ]
     },
     {
         "slug":  "pacts-end",
@@ -4041,7 +5234,11 @@
         "baseText":  "If you have 3 or more cards in your Exhaust Pile, deal 17 damage to ALL enemies.",
         "upgradedText":  "If you have 3 or more cards in your Exhaust Pile, deal 23 damage to ALL enemies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/pacts-end.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/pacts-end-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/pacts-end-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "pagestorm",
@@ -4053,7 +5250,11 @@
         "baseText":  "Whenever you draw an Ethereal card, draw 1 card.",
         "upgradedText":  "Cost changes from 1 to 0",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/pagestorm.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/pagestorm-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/pagestorm-upgraded.webp",
+        "tags":  [
+                     "Draw",
+                     "Ethereal"
+                 ]
     },
     {
         "slug":  "pale-blue-dot",
@@ -4065,7 +5266,10 @@
         "baseText":  "If you play 5 or more cards in a turn, draw 1 card at the start of your next turn.",
         "upgradedText":  "If you play 5 or more cards in a turn, draw 2 cards at the start of your next turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/pale-blue-dot.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/pale-blue-dot-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/pale-blue-dot-upgraded.webp",
+        "tags":  [
+                     "Draw"
+                 ]
     },
     {
         "slug":  "panache",
@@ -4077,7 +5281,10 @@
         "baseText":  "Every time you play 5 cards in a single turn, deal 10 damage to ALL enemies.",
         "upgradedText":  "Every time you play 5 cards in a single turn, deal 14 damage to ALL enemies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/panache.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/panache-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/panache-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "panic-button",
@@ -4089,7 +5296,11 @@
         "baseText":  "Gain 30 Block. You cannot gain Block from cards for 2 turns. Exhaust.",
         "upgradedText":  "Gain 40 Block. You cannot gain Block from cards for 2 turns. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/panic-button.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/panic-button-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/panic-button-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "parry",
@@ -4101,7 +5312,10 @@
         "baseText":  "Sovereign Blade now gains 10 Block.",
         "upgradedText":  "Sovereign Blade now gains 14 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/parry.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/parry-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/parry-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "parse",
@@ -4113,7 +5327,11 @@
         "baseText":  "Ethereal. Draw 3 cards.",
         "upgradedText":  "Ethereal. Draw 4 cards.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/parse.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/parse-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/parse-upgraded.webp",
+        "tags":  [
+                     "Draw",
+                     "Ethereal"
+                 ]
     },
     {
         "slug":  "particle-wall",
@@ -4125,7 +5343,10 @@
         "baseText":  "Gain 9 Block. Return this card to your Hand.",
         "upgradedText":  "Gain 12 Block. Return this card to your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/particle-wall.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/particle-wall-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/particle-wall-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "patter",
@@ -4137,7 +5358,10 @@
         "baseText":  "Gain 8 Block. Gain 2 Vigor.",
         "upgradedText":  "Gain 10 Block. Gain 3 Vigor.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/patter.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/patter-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/patter-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "peck",
@@ -4149,7 +5373,10 @@
         "baseText":  "Deal 2 damage 3 times.",
         "upgradedText":  "Deal 2 damage 4 times.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/peck.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/peck-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/peck-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "perfected-strike",
@@ -4161,7 +5388,10 @@
         "baseText":  "Deal 6 damage. Deals 2 additional damage for ALL your cards containing “Strike”.",
         "upgradedText":  "Deal 6 damage. Deals 3 additional damage for ALL your cards containing “Strike”.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/perfected-strike.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/perfected-strike-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/perfected-strike-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "phantom-blades",
@@ -4173,7 +5403,12 @@
         "baseText":  "Shivs gain Retain. The first Shiv you play each turn deals 9 additional damage.",
         "upgradedText":  "Shivs gain Retain. The first Shiv you play each turn deals 12 additional damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/phantom-blades.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/phantom-blades-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/phantom-blades-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Retain",
+                     "Shiv"
+                 ]
     },
     {
         "slug":  "photon-cut",
@@ -4185,7 +5420,11 @@
         "baseText":  "Deal 10 damage. Draw 1 card. Put 1 card from your Hand on top of your Draw Pile.",
         "upgradedText":  "Deal 13 damage. Draw 2 cards. Put 1 card from your Hand on top of your Draw Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/photon-cut.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/photon-cut-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/photon-cut-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Draw"
+                 ]
     },
     {
         "slug":  "piercing-wail",
@@ -4197,7 +5436,11 @@
         "baseText":  "ALL enemies lose 6 Strength this turn. Exhaust.",
         "upgradedText":  "ALL enemies lose 8 Strength this turn. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/piercing-wail.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/piercing-wail-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/piercing-wail-upgraded.webp",
+        "tags":  [
+                     "Strength",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "pillage",
@@ -4209,7 +5452,11 @@
         "baseText":  "Deal 6 damage. Draw cards until you draw a non-Attack card.",
         "upgradedText":  "Deal 9 damage. Draw cards until you draw a non-Attack card.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/pillage.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/pillage-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/pillage-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Draw"
+                 ]
     },
     {
         "slug":  "pillar-of-creation",
@@ -4221,7 +5468,10 @@
         "baseText":  "Whenever you create a card, gain 3 Block.",
         "upgradedText":  "Whenever you create a card, gain 4 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/pillar-of-creation.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/pillar-of-creation-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/pillar-of-creation-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "pinpoint",
@@ -4233,7 +5483,11 @@
         "baseText":  "Deal 15 damage. Costs 1 less 1 Silent Energy for each Skill played this turn.",
         "upgradedText":  "Deal 19 damage. Costs 1 less 1 Silent Energy for each Skill played this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/pinpoint.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/pinpoint-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/pinpoint-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Energy"
+                 ]
     },
     {
         "slug":  "poisoned-stab",
@@ -4245,7 +5499,11 @@
         "baseText":  "Deal 6 damage. Apply 3 Poison.",
         "upgradedText":  "Deal 8 damage. Apply 4 Poison.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/poisoned-stab.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/poisoned-stab-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/poisoned-stab-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Poison"
+                 ]
     },
     {
         "slug":  "poke",
@@ -4257,7 +5515,10 @@
         "baseText":  "Osty deals 6 damage.",
         "upgradedText":  "Osty deals 9 damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/poke.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/poke-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/poke-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "pommel-strike",
@@ -4269,7 +5530,11 @@
         "baseText":  "Deal 9 damage. Draw 1 card.",
         "upgradedText":  "Deal 10 damage. Draw 2 cards.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/pommel-strike.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/pommel-strike-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/pommel-strike-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Draw"
+                 ]
     },
     {
         "slug":  "pounce",
@@ -4281,7 +5546,11 @@
         "baseText":  "Deal 14 damage. The next Skill you play costs 0 1 Silent Energy.",
         "upgradedText":  "Deal 20 damage. The next Skill you play costs 0 1 Silent Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/pounce.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/pounce-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/pounce-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Energy"
+                 ]
     },
     {
         "slug":  "precise-cut",
@@ -4293,7 +5562,10 @@
         "baseText":  "Deal 13 damage. Deals 2 less damage for each other card in your Hand.",
         "upgradedText":  "Deal 16 damage. Deals 2 less damage for each other card in your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/precise-cut.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/precise-cut-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/precise-cut-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "predator",
@@ -4305,7 +5577,11 @@
         "baseText":  "Deal 15 damage. Next turn, draw 2 cards.",
         "upgradedText":  "Deal 20 damage. Next turn, draw 2 cards.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/predator.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/predator-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/predator-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Draw"
+                 ]
     },
     {
         "slug":  "prepared",
@@ -4317,7 +5593,10 @@
         "baseText":  "Draw 1 card. Discard 1 card.",
         "upgradedText":  "Draw 2 cards. Discard 2 cards.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/prepared.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/prepared-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/prepared-upgraded.webp",
+        "tags":  [
+                     "Draw"
+                 ]
     },
     {
         "slug":  "prep-time",
@@ -4329,7 +5608,10 @@
         "baseText":  "At the start of your turn, gain 4 Vigor.",
         "upgradedText":  "At the start of your turn, gain 6 Vigor.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/prep-time.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/prep-time-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/prep-time-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "primal-force",
@@ -4341,7 +5623,10 @@
         "baseText":  "Transform all Attacks in your Hand into Giant Rock.",
         "upgradedText":  "Transform all Attacks in your Hand into Giant Rock+.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/primal-force.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/primal-force-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/primal-force-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "production",
@@ -4353,7 +5638,11 @@
         "baseText":  "Gain 2 Colorless Energy. Exhaust.",
         "upgradedText":  "Gain 3 Colorless Energy. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/production.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/production-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/production-upgraded.webp",
+        "tags":  [
+                     "Energy",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "prolong",
@@ -4365,7 +5654,11 @@
         "baseText":  "Next turn, gain Block equal to your current Block. Exhaust.",
         "upgradedText":  "Next turn, gain Block equal to your current Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/prolong.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/prolong-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/prolong-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "prophesize",
@@ -4377,7 +5670,10 @@
         "baseText":  "Draw 6 cards.",
         "upgradedText":  "Draw 9 cards.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/prophesize.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/prophesize-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/prophesize-upgraded.webp",
+        "tags":  [
+                     "Draw"
+                 ]
     },
     {
         "slug":  "prowess",
@@ -4389,7 +5685,11 @@
         "baseText":  "Gain 1 Strength. Gain 1 Dexterity.",
         "upgradedText":  "Gain 2 Strength. Gain 2 Dexterity.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/prowess.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/prowess-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/prowess-upgraded.webp",
+        "tags":  [
+                     "Strength",
+                     "Dexterity"
+                 ]
     },
     {
         "slug":  "pull-aggro",
@@ -4401,7 +5701,11 @@
         "baseText":  "Summon 4. Gain 7 Block.",
         "upgradedText":  "Summon 5. Gain 9 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/pull-aggro.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/pull-aggro-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/pull-aggro-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Summon"
+                 ]
     },
     {
         "slug":  "pull-from-below",
@@ -4413,7 +5717,11 @@
         "baseText":  "Deal 5 damage for each Ethereal card played this combat.",
         "upgradedText":  "Deal 7 damage for each Ethereal card played this combat.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/pull-from-below.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/pull-from-below-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/pull-from-below-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Ethereal"
+                 ]
     },
     {
         "slug":  "purity",
@@ -4425,7 +5733,11 @@
         "baseText":  "Retain. Exhaust up to 3 cards in your Hand. Exhaust.",
         "upgradedText":  "Retain. Exhaust up to 5 cards in your Hand. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/purity.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/purity-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/purity-upgraded.webp",
+        "tags":  [
+                     "Retain",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "putrefy",
@@ -4437,7 +5749,11 @@
         "baseText":  "Apply 2 Weak. Apply 2 Vulnerable. Exhaust.",
         "upgradedText":  "Apply 3 Weak. Apply 3 Vulnerable. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/putrefy.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/putrefy-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/putrefy-upgraded.webp",
+        "tags":  [
+                     "Debuff",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "pyre",
@@ -4449,7 +5765,10 @@
         "baseText":  "Gain 1 Ironclad Energy at the start of each turn.",
         "upgradedText":  "Gain 2 Ironclad Energy at the start of each turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/pyre.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/pyre-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/pyre-upgraded.webp",
+        "tags":  [
+                     "Energy"
+                 ]
     },
     {
         "slug":  "quasar",
@@ -4461,7 +5780,10 @@
         "baseText":  "Choose 1 of 3 random Colorless cards to add into your Hand.",
         "upgradedText":  "Choose 1 of 3 random Upgraded Colorless cards to add into your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/quasar.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/quasar-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/quasar-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "radiate",
@@ -4473,7 +5795,12 @@
         "baseText":  "Deal 3 damage to ALL enemies for each 1 Regent Star Energy gained this turn.",
         "upgradedText":  "Deal 4 damage to ALL enemies for each 1 Regent Star Energy gained this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/radiate.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/radiate-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/radiate-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Energy",
+                     "Star"
+                 ]
     },
     {
         "slug":  "rage",
@@ -4485,7 +5812,10 @@
         "baseText":  "Whenever you play an Attack this turn, gain 3 Block.",
         "upgradedText":  "Whenever you play an Attack this turn, gain 5 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/rage.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/rage-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/rage-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "rainbow",
@@ -4497,7 +5827,11 @@
         "baseText":  "Channel 1 Lightning. Channel 1 Frost. Channel 1 Dark. Exhaust.",
         "upgradedText":  "Channel 1 Lightning. Channel 1 Frost. Channel 1 Dark.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/rainbow.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/rainbow-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/rainbow-upgraded.webp",
+        "tags":  [
+                     "Exhaust",
+                     "Channel"
+                 ]
     },
     {
         "slug":  "rally",
@@ -4509,7 +5843,10 @@
         "baseText":  "ALL players gain 12 Block.",
         "upgradedText":  "ALL players gain 17 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/rally.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/rally-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/rally-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "rampage",
@@ -4521,7 +5858,10 @@
         "baseText":  "Deal 9 damage. Increase this card\u0027s damage by 5 this combat.",
         "upgradedText":  "Deal 9 damage. Increase this card\u0027s damage by 9 this combat.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/rampage.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/rampage-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/rampage-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "rattle",
@@ -4533,7 +5873,10 @@
         "baseText":  "Osty deals 7 damage. Hits an additional time for each other time he has attacked this turn.",
         "upgradedText":  "Osty deals 9 damage. Hits an additional time for each other time he has attacked this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/rattle.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/rattle-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/rattle-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "reanimate",
@@ -4545,7 +5888,11 @@
         "baseText":  "Summon 20. Exhaust.",
         "upgradedText":  "Summon 25. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/reanimate.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/reanimate-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/reanimate-upgraded.webp",
+        "tags":  [
+                     "Exhaust",
+                     "Summon"
+                 ]
     },
     {
         "slug":  "reap",
@@ -4557,7 +5904,11 @@
         "baseText":  "Retain. Deal 27 damage.",
         "upgradedText":  "Retain. Deal 33 damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/reap.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/reap-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/reap-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Retain"
+                 ]
     },
     {
         "slug":  "reaper-form",
@@ -4569,7 +5920,12 @@
         "baseText":  "Whenever Attacks deal damage, apply that much Doom.",
         "upgradedText":  "Retain. Whenever Attacks deal damage, apply that much Doom.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/reaper-form.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/reaper-form-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/reaper-form-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Retain",
+                     "Doom"
+                 ]
     },
     {
         "slug":  "reave",
@@ -4581,7 +5937,11 @@
         "baseText":  "Deal 9 damage. Add a Soul into your Draw Pile.",
         "upgradedText":  "Deal 11 damage. Add a Soul+ into your Draw Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/reave.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/reave-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/reave-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Souls"
+                 ]
     },
     {
         "slug":  "reboot",
@@ -4593,7 +5953,11 @@
         "baseText":  "Shuffle ALL your cards into your Draw Pile. Draw 4 cards. Exhaust.",
         "upgradedText":  "Shuffle ALL your cards into your Draw Pile. Draw 6 cards. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/reboot.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/reboot-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/reboot-upgraded.webp",
+        "tags":  [
+                     "Draw",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "rebound",
@@ -4605,7 +5969,10 @@
         "baseText":  "Deal 9 damage. Put the next card you play this turn on top of your Draw Pile.",
         "upgradedText":  "Deal 12 damage. Put the next card you play this turn on top of your Draw Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/rebound.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/rebound-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/rebound-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "refine-blade",
@@ -4617,7 +5984,11 @@
         "baseText":  "Forge 9. Next turn, gain 1 Regent Energy.",
         "upgradedText":  "Forge 13. Next turn, gain 1 Regent Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/refine-blade.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/refine-blade-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/refine-blade-upgraded.webp",
+        "tags":  [
+                     "Energy",
+                     "Forge"
+                 ]
     },
     {
         "slug":  "reflect",
@@ -4629,7 +6000,11 @@
         "baseText":  "Gain 15 Block. Blocked attack damage is reflected to your attacker this turn.",
         "upgradedText":  "Gain 20 Block. Blocked attack damage is reflected to your attacker this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/reflect.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/reflect-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/reflect-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Block"
+                 ]
     },
     {
         "slug":  "reflex",
@@ -4641,7 +6016,10 @@
         "baseText":  "Sly. Draw 2 cards.",
         "upgradedText":  "Sly. Draw 3 cards.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/reflex.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/reflex-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/reflex-upgraded.webp",
+        "tags":  [
+                     "Draw"
+                 ]
     },
     {
         "slug":  "refract",
@@ -4653,7 +6031,11 @@
         "baseText":  "Deal 9 damage twice. Channel 2 Glass.",
         "upgradedText":  "Deal 12 damage twice. Channel 2 Glass.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/refract.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/refract-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/refract-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Channel"
+                 ]
     },
     {
         "slug":  "rend",
@@ -4665,7 +6047,10 @@
         "baseText":  "Deal 15 damage. Deals 5 additional damage for each unique debuff on the enemy.",
         "upgradedText":  "Deal 18 damage. Deals 8 additional damage for each unique debuff on the enemy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/rend.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/rend-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/rend-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "resonance",
@@ -4677,7 +6062,10 @@
         "baseText":  "Gain 1 Strength. ALL enemies lose 1 Strength.",
         "upgradedText":  "Gain 2 Strength. ALL enemies lose 1 Strength.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/resonance.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/resonance-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/resonance-upgraded.webp",
+        "tags":  [
+                     "Strength"
+                 ]
     },
     {
         "slug":  "restlessness",
@@ -4689,7 +6077,12 @@
         "baseText":  "Retain. If your Hand is empty, draw 2 cards and gain 2 Colorless Energy.",
         "upgradedText":  "Retain. If your Hand is empty, draw 3 cards and gain 3 Colorless Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/restlessness.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/restlessness-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/restlessness-upgraded.webp",
+        "tags":  [
+                     "Draw",
+                     "Energy",
+                     "Retain"
+                 ]
     },
     {
         "slug":  "ricochet",
@@ -4701,7 +6094,10 @@
         "baseText":  "Sly. Deal 3 damage to a random enemy 4 times.",
         "upgradedText":  "Sly. Deal 3 damage to a random enemy 5 times.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/ricochet.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/ricochet-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/ricochet-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "right-hand-hand",
@@ -4713,7 +6109,11 @@
         "baseText":  "Osty deals 4 damage. Whenever you play a card that costs 2 Necrobinder Energy or more, return this to your Hand from the Discard Pile.",
         "upgradedText":  "Osty deals 6 damage. Whenever you play a card that costs 2 Necrobinder Energy or more, return this to your Hand from the Discard Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/right-hand-hand.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/right-hand-hand-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/right-hand-hand-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Energy"
+                 ]
     },
     {
         "slug":  "rip-and-tear",
@@ -4725,7 +6125,10 @@
         "baseText":  "Deal 7 damage to a random enemy twice.",
         "upgradedText":  "Deal 9 damage to a random enemy twice.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/rip-and-tear.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/rip-and-tear-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/rip-and-tear-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "rocket-punch",
@@ -4737,7 +6140,12 @@
         "baseText":  "Deal 13 damage. Draw 1 card. Whenever you create a Status, reduce this card\u0027s cost to 0 1 Defect Energy until played.",
         "upgradedText":  "Deal 14 damage. Draw 2 cards. Whenever you create a Status, reduce this card\u0027s cost to 0 1 Defect Energy until played.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/rocket-punch.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/rocket-punch-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/rocket-punch-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Draw",
+                     "Energy"
+                 ]
     },
     {
         "slug":  "rolling-boulder",
@@ -4749,7 +6157,10 @@
         "baseText":  "At the start of your turn, deal 5 damage to ALL enemies and increase this damage by 5.",
         "upgradedText":  "At the start of your turn, deal 10 damage to ALL enemies and increase this damage by 5.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/rolling-boulder.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/rolling-boulder-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/rolling-boulder-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "royal-gamble",
@@ -4761,7 +6172,13 @@
         "baseText":  "Gain 9 1 Regent Star Energy. Exhaust.",
         "upgradedText":  "Retain. Gain 9 1 Regent Star Energy. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/royal-gamble.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/royal-gamble-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/royal-gamble-upgraded.webp",
+        "tags":  [
+                     "Energy",
+                     "Retain",
+                     "Exhaust",
+                     "Star"
+                 ]
     },
     {
         "slug":  "royalties",
@@ -4773,7 +6190,10 @@
         "baseText":  "At the end of combat, gain 30 Gold.",
         "upgradedText":  "At the end of combat, gain 40 Gold.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/royalties.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/royalties-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/royalties-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "rupture",
@@ -4785,7 +6205,10 @@
         "baseText":  "Whenever you lose HP on your turn, gain 1 Strength.",
         "upgradedText":  "Whenever you lose HP on your turn, gain 2 Strength.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/rupture.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/rupture-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/rupture-upgraded.webp",
+        "tags":  [
+                     "Strength"
+                 ]
     },
     {
         "slug":  "sacrifice",
@@ -4797,7 +6220,11 @@
         "baseText":  "Retain. If Osty is alive, he dies and you gain Block equal to double his Max HP.",
         "upgradedText":  "Cost changes from 1 to 0",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/sacrifice.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sacrifice-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sacrifice-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Retain"
+                 ]
     },
     {
         "slug":  "salvo",
@@ -4809,7 +6236,11 @@
         "baseText":  "Deal 12 damage. Retain your Hand this turn.",
         "upgradedText":  "Deal 16 damage. Retain your Hand this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/salvo.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/salvo-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/salvo-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Retain"
+                 ]
     },
     {
         "slug":  "scare",
@@ -4821,7 +6252,11 @@
         "baseText":  "Apply 1 Weak to ALL enemies. Exhaust.",
         "upgradedText":  "Apply 1 Weak to ALL enemies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/scare.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/scare-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/scare-upgraded.webp",
+        "tags":  [
+                     "Debuff",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "scavenge",
@@ -4833,7 +6268,11 @@
         "baseText":  "Exhaust a card. Next turn, gain 2 Defect Energy.",
         "upgradedText":  "Exhaust a card. Next turn, gain 3 Defect Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/scavenge.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/scavenge-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/scavenge-upgraded.webp",
+        "tags":  [
+                     "Energy",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "scourge",
@@ -4845,7 +6284,11 @@
         "baseText":  "Apply 13 Doom. Draw 1 card.",
         "upgradedText":  "Apply 16 Doom. Draw 2 cards.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/scourge.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/scourge-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/scourge-upgraded.webp",
+        "tags":  [
+                     "Draw",
+                     "Doom"
+                 ]
     },
     {
         "slug":  "scrape",
@@ -4857,7 +6300,12 @@
         "baseText":  "Deal 7 damage. Draw 4 cards. Discard all cards drawn this way that do not cost 0 1 Defect Energy.",
         "upgradedText":  "Deal 10 damage. Draw 5 cards. Discard all cards drawn this way that do not cost 0 1 Defect Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/scrape.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/scrape-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/scrape-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Draw",
+                     "Energy"
+                 ]
     },
     {
         "slug":  "scrawl",
@@ -4869,7 +6317,12 @@
         "baseText":  "Draw cards until your Hand is full. Exhaust.",
         "upgradedText":  "Retain. Draw cards until your Hand is full. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/scrawl.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/scrawl-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/scrawl-upgraded.webp",
+        "tags":  [
+                     "Draw",
+                     "Retain",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "sculpting-strike",
@@ -4881,7 +6334,11 @@
         "baseText":  "Deal 9 damage. Add Ethereal to a card in your Hand.",
         "upgradedText":  "Deal 12 damage. Add Ethereal to a card in your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/sculpting-strike.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sculpting-strike-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sculpting-strike-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Ethereal"
+                 ]
     },
     {
         "slug":  "seance",
@@ -4893,7 +6350,11 @@
         "baseText":  "Ethereal. Transform a card in your Draw Pile into Soul.",
         "upgradedText":  "Cost changes from 1 to 0",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/seance.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/seance-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/seance-upgraded.webp",
+        "tags":  [
+                     "Ethereal",
+                     "Souls"
+                 ]
     },
     {
         "slug":  "second-wind",
@@ -4905,7 +6366,11 @@
         "baseText":  "Exhaust all non-Attack cards in your Hand. Gain 5 Block for each card Exhausted.",
         "upgradedText":  "Exhaust all non-Attack cards in your Hand. Gain 7 Block for each card Exhausted.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/second-wind.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/second-wind-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/second-wind-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "secret-technique",
@@ -4917,7 +6382,10 @@
         "baseText":  "Put a Skill from your Draw Pile into your Hand. Exhaust.",
         "upgradedText":  "Put a Skill from your Draw Pile into your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/secret-technique.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/secret-technique-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/secret-technique-upgraded.webp",
+        "tags":  [
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "secret-weapon",
@@ -4929,7 +6397,10 @@
         "baseText":  "Put an Attack from your Draw Pile into your Hand. Exhaust.",
         "upgradedText":  "Put an Attack from your Draw Pile into your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/secret-weapon.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/secret-weapon-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/secret-weapon-upgraded.webp",
+        "tags":  [
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "seeker-strike",
@@ -4941,7 +6412,10 @@
         "baseText":  "Deal 9 damage. Choose 1 of 3 cards in your Draw Pile to add into your Hand.",
         "upgradedText":  "Deal 12 damage. Choose 1 of 3 cards in your Draw Pile to add into your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/seeker-strike.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/seeker-strike-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/seeker-strike-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "seeking-edge",
@@ -4953,7 +6427,11 @@
         "baseText":  "Forge 7. Sovereign Blade now deals damage to ALL enemies.",
         "upgradedText":  "Forge 11. Sovereign Blade now deals damage to ALL enemies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/seeking-edge.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/seeking-edge-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/seeking-edge-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Forge"
+                 ]
     },
     {
         "slug":  "sentry-mode",
@@ -4965,7 +6443,10 @@
         "baseText":  "At the start of your turn, add 1 Sweeping Gaze into your Hand.",
         "upgradedText":  "Cost changes from 2 to 1",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/sentry-mode.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sentry-mode-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sentry-mode-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "serpent-form",
@@ -4977,7 +6458,10 @@
         "baseText":  "Whenever you play a card, deal 4 damage to a random enemy.",
         "upgradedText":  "Whenever you play a card, deal 6 damage to a random enemy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/serpent-form.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/serpent-form-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/serpent-form-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "setup-strike",
@@ -4989,7 +6473,11 @@
         "baseText":  "Deal 7 damage. Gain 2 Strength this turn.",
         "upgradedText":  "Deal 9 damage. Gain 3 Strength this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/setup-strike.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/setup-strike-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/setup-strike-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Strength"
+                 ]
     },
     {
         "slug":  "seven-stars",
@@ -5001,7 +6489,10 @@
         "baseText":  "Deal 7 damage to ALL enemies 7 times.",
         "upgradedText":  "Cost changes from 2 to 1",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/seven-stars.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/seven-stars-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/seven-stars-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "severance",
@@ -5013,7 +6504,11 @@
         "baseText":  "Deal 13 damage. Add a Soul into your Draw Pile, Hand, and Discard Pile.",
         "upgradedText":  "Deal 18 damage. Add a Soul into your Draw Pile, Hand, and Discard Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/severance.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/severance-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/severance-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Souls"
+                 ]
     },
     {
         "slug":  "shadowmeld",
@@ -5025,7 +6520,10 @@
         "baseText":  "Double your Block gain this turn.",
         "upgradedText":  "Cost changes from 1 to 0",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/shadowmeld.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/shadowmeld-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/shadowmeld-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "shadow-shield",
@@ -5037,7 +6535,11 @@
         "baseText":  "Gain 11 Block. Channel 1 Dark.",
         "upgradedText":  "Gain 15 Block. Channel 1 Dark.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/shadow-shield.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/shadow-shield-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/shadow-shield-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Channel"
+                 ]
     },
     {
         "slug":  "shadow-step",
@@ -5049,7 +6551,10 @@
         "baseText":  "Discard your Hand. Next turn, Attacks deal double damage.",
         "upgradedText":  "Cost changes from 1 to 0",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/shadow-step.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/shadow-step-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/shadow-step-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "shared-fate",
@@ -5061,7 +6566,11 @@
         "baseText":  "Lose 2 Strength. Enemy loses 2 Strength. Exhaust.",
         "upgradedText":  "Lose 2 Strength. Enemy loses 3 Strength. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/shared-fate.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/shared-fate-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/shared-fate-upgraded.webp",
+        "tags":  [
+                     "Strength",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "shatter",
@@ -5073,7 +6582,11 @@
         "baseText":  "Deal 7 damage to ALL enemies. Evoke all of your Orbs twice.",
         "upgradedText":  "Deal 11 damage to ALL enemies. Evoke all of your Orbs twice.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/shatter.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/shatter-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/shatter-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Evoke"
+                 ]
     },
     {
         "slug":  "shining-strike",
@@ -5085,7 +6598,12 @@
         "baseText":  "Deal 8 damage. Gain 2 Regent Star Energy. Put this card on top of your Draw Pile.",
         "upgradedText":  "Deal 11 damage. Gain 2 Regent Star Energy. Put this card on top of your Draw Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/shining-strike.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/shining-strike-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/shining-strike-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Energy",
+                     "Star"
+                 ]
     },
     {
         "slug":  "shiv",
@@ -5097,7 +6615,12 @@
         "baseText":  "Deal 4 damage. Exhaust.",
         "upgradedText":  "Deal 6 damage. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/shiv.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/shiv-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/shiv-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Exhaust",
+                     "Shiv"
+                 ]
     },
     {
         "slug":  "shockwave",
@@ -5109,7 +6632,11 @@
         "baseText":  "Apply 3 Weak and Vulnerable to ALL enemies. Exhaust.",
         "upgradedText":  "Apply 5 Weak and Vulnerable to ALL enemies. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/shockwave.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/shockwave-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/shockwave-upgraded.webp",
+        "tags":  [
+                     "Debuff",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "shroud",
@@ -5121,7 +6648,11 @@
         "baseText":  "Whenever you apply Doom, gain 2 Block.",
         "upgradedText":  "Whenever you apply Doom, gain 3 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/shroud.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/shroud-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/shroud-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Doom"
+                 ]
     },
     {
         "slug":  "shrug-it-off",
@@ -5133,7 +6664,11 @@
         "baseText":  "Gain 8 Block. Draw 1 card.",
         "upgradedText":  "Gain 11 Block. Draw 1 card.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/shrug-it-off.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/shrug-it-off-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/shrug-it-off-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Draw"
+                 ]
     },
     {
         "slug":  "sic-em",
@@ -5145,7 +6680,11 @@
         "baseText":  "Osty deals 5 damage. Whenever Osty hits this enemy this turn, Summon 3.",
         "upgradedText":  "Osty deals 6 damage. Whenever Osty hits this enemy this turn, Summon 4.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/sic-em.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sic-em-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sic-em-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Summon"
+                 ]
     },
     {
         "slug":  "signal-boost",
@@ -5157,7 +6696,10 @@
         "baseText":  "The next Power you play is played an additional time. Exhaust.",
         "upgradedText":  "Cost changes from 1 to 0",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/signal-boost.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/signal-boost-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/signal-boost-upgraded.webp",
+        "tags":  [
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "skewer",
@@ -5169,7 +6711,10 @@
         "baseText":  "Deal 8 damage X times.",
         "upgradedText":  "Deal 11 damage X times.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/skewer.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/skewer-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/skewer-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "skim",
@@ -5181,7 +6726,10 @@
         "baseText":  "Draw 3 cards.",
         "upgradedText":  "Draw 4 cards.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/skim.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/skim-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/skim-upgraded.webp",
+        "tags":  [
+                     "Draw"
+                 ]
     },
     {
         "slug":  "sleight-of-flesh",
@@ -5193,7 +6741,10 @@
         "baseText":  "Whenever you apply a debuff to an enemy, they take 9 damage.",
         "upgradedText":  "Whenever you apply a debuff to an enemy, they take 13 damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/sleight-of-flesh.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sleight-of-flesh-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sleight-of-flesh-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "slice",
@@ -5205,7 +6756,10 @@
         "baseText":  "Deal 6 damage.",
         "upgradedText":  "Deal 9 damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/slice.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/slice-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/slice-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "smokestack",
@@ -5217,7 +6771,10 @@
         "baseText":  "Whenever you create a Status, deal 5 damage to ALL enemies.",
         "upgradedText":  "Whenever you create a Status, deal 7 damage to ALL enemies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/smokestack.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/smokestack-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/smokestack-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "snakebite",
@@ -5229,7 +6786,11 @@
         "baseText":  "Retain. Apply 7 Poison.",
         "upgradedText":  "Retain. Apply 10 Poison.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/snakebite.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/snakebite-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/snakebite-upgraded.webp",
+        "tags":  [
+                     "Retain",
+                     "Poison"
+                 ]
     },
     {
         "slug":  "snap",
@@ -5241,7 +6802,11 @@
         "baseText":  "Osty deals 7 damage. Add Retain to a card in your Hand.",
         "upgradedText":  "Osty deals 10 damage. Add Retain to a card in your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/snap.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/snap-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/snap-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Retain"
+                 ]
     },
     {
         "slug":  "sneaky",
@@ -5253,7 +6818,10 @@
         "baseText":  "Sly. Whenever another player attacks an enemy, gain 1 Block.",
         "upgradedText":  "Sly. Whenever another player attacks an enemy, gain 2 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/sneaky.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sneaky-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sneaky-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "solar-strike",
@@ -5265,7 +6833,12 @@
         "baseText":  "Deal 9 damage. Gain 1 Regent Star Energy.",
         "upgradedText":  "Deal 10 damage. Gain 2 Regent Star Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/solar-strike.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/solar-strike-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/solar-strike-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Energy",
+                     "Star"
+                 ]
     },
     {
         "slug":  "soul",
@@ -5277,7 +6850,12 @@
         "baseText":  "Draw 2 cards. Exhaust.",
         "upgradedText":  "Draw 3 cards. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/soul.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/soul-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/soul-upgraded.webp",
+        "tags":  [
+                     "Draw",
+                     "Exhaust",
+                     "Souls"
+                 ]
     },
     {
         "slug":  "soul-storm",
@@ -5289,7 +6867,12 @@
         "baseText":  "Deal 9 damage. Deals 2 additional damage for each Soul in your Exhaust Pile.",
         "upgradedText":  "Deal 9 damage. Deals 3 additional damage for each Soul in your Exhaust Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/soul-storm.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/soul-storm-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/soul-storm-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Exhaust",
+                     "Souls"
+                 ]
     },
     {
         "slug":  "sovereign-blade",
@@ -5301,7 +6884,11 @@
         "baseText":  "Retain. Deal 10 damage.",
         "upgradedText":  "Cost changes from 2 to 1",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/sovereign-blade.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sovereign-blade-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sovereign-blade-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Retain"
+                 ]
     },
     {
         "slug":  "sow",
@@ -5313,7 +6900,11 @@
         "baseText":  "Retain. Deal 8 damage to ALL enemies.",
         "upgradedText":  "Retain. Deal 11 damage to ALL enemies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/sow.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sow-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sow-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Retain"
+                 ]
     },
     {
         "slug":  "spectrum-shift",
@@ -5325,7 +6916,10 @@
         "baseText":  "At the start of your turn, add 1 random Colorless card into your Hand.",
         "upgradedText":  "Cost changes from 2 to 1",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/spectrum-shift.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/spectrum-shift-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/spectrum-shift-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "speedster",
@@ -5337,7 +6931,10 @@
         "baseText":  "Whenever you draw a card during your turn, deal 2 damage to ALL enemies.",
         "upgradedText":  "Innate. Whenever you draw a card during your turn, deal 2 damage to ALL enemies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/speedster.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/speedster-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/speedster-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "spinner",
@@ -5349,7 +6946,10 @@
         "baseText":  "At the start of your turn, Channel 1 Glass.",
         "upgradedText":  "Channel 1 Glass. At the start of your turn, Channel 1 Glass.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/spinner.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/spinner-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/spinner-upgraded.webp",
+        "tags":  [
+                     "Channel"
+                 ]
     },
     {
         "slug":  "spirit-of-ash",
@@ -5361,7 +6961,11 @@
         "baseText":  "Whenever you play an Ethereal card, gain 4 Block.",
         "upgradedText":  "Whenever you play an Ethereal card, gain 5 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/spirit-of-ash.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/spirit-of-ash-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/spirit-of-ash-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Ethereal"
+                 ]
     },
     {
         "slug":  "spite",
@@ -5373,7 +6977,10 @@
         "baseText":  "Deal 5 damage. If you lost HP this turn, hits 2 times.",
         "upgradedText":  "Deal 5 damage. If you lost HP this turn, hits 3 times.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/spite.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/spite-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/spite-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "splash",
@@ -5385,7 +6992,10 @@
         "baseText":  "Choose 1 of 3 random Attacks from another character to add into your Hand. It\u0027s free to play this turn.",
         "upgradedText":  "Choose 1 of 3 random Upgraded Attacks from another character to add into your Hand. It\u0027s free to play this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/splash.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/splash-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/splash-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "spoils-map",
@@ -5397,7 +7007,10 @@
         "baseText":  "Unplayable. Marks a site of 600 extra Gold in the next Act.",
         "upgradedText":  null,
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/spoils-map.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/spoils-map-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/spoils-map-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "spoils-of-battle",
@@ -5409,7 +7022,11 @@
         "baseText":  "Forge 5. Draw 2 cards.",
         "upgradedText":  "Forge 8. Draw 2 cards.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/spoils-of-battle.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/spoils-of-battle-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/spoils-of-battle-upgraded.webp",
+        "tags":  [
+                     "Draw",
+                     "Forge"
+                 ]
     },
     {
         "slug":  "spur",
@@ -5421,7 +7038,11 @@
         "baseText":  "Retain. Summon 3. Osty heals 5 HP.",
         "upgradedText":  "Retain. Summon 5. Osty heals 7 HP.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/spur.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/spur-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/spur-upgraded.webp",
+        "tags":  [
+                     "Retain",
+                     "Summon"
+                 ]
     },
     {
         "slug":  "squash",
@@ -5433,7 +7054,11 @@
         "baseText":  "Deal 10 damage. Apply 2 Vulnerable.",
         "upgradedText":  "Deal 12 damage. Apply 3 Vulnerable.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/squash.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/squash-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/squash-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Debuff"
+                 ]
     },
     {
         "slug":  "squeeze",
@@ -5445,7 +7070,10 @@
         "baseText":  "Osty deals 25 damage. Deals 5 additional damage for ALL your other Osty Attacks.",
         "upgradedText":  "Osty deals 30 damage. Deals 6 additional damage for ALL your other Osty Attacks.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/squeeze.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/squeeze-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/squeeze-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "stack",
@@ -5457,7 +7085,10 @@
         "baseText":  "Gain Block equal to the number of cards in your Discard Pile.",
         "upgradedText":  "Gain Block equal to the number of cards in your Discard Pile +3.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/stack.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/stack-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/stack-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "stampede",
@@ -5469,7 +7100,10 @@
         "baseText":  "At the end of your turn, 1 random Attack in your Hand is played against a random enemy.",
         "upgradedText":  "Cost changes from 2 to 1",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/stampede.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/stampede-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/stampede-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "stardust",
@@ -5481,7 +7115,10 @@
         "baseText":  "Deal 5 damage to a random enemy X times.",
         "upgradedText":  "Deal 7 damage to a random enemy X times.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/stardust.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/stardust-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/stardust-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "stoke",
@@ -5493,7 +7130,10 @@
         "baseText":  "Exhaust your Hand. Add 1 random card into your Hand for each card Exhausted.",
         "upgradedText":  "Exhaust your Hand. Add 1 random Upgraded card into your Hand for each card Exhausted.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/stoke.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/stoke-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/stoke-upgraded.webp",
+        "tags":  [
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "stomp",
@@ -5505,7 +7145,11 @@
         "baseText":  "Deal 12 damage to ALL enemies. Costs 1 less 1 Ironclad Energy for each Attack played this turn.",
         "upgradedText":  "Deal 15 damage to ALL enemies. Costs 1 less 1 Ironclad Energy for each Attack played this turn.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/stomp.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/stomp-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/stomp-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Energy"
+                 ]
     },
     {
         "slug":  "stone-armor",
@@ -5517,7 +7161,10 @@
         "baseText":  "Gain 4 Plating.",
         "upgradedText":  "Gain 6 Plating.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/stone-armor.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/stone-armor-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/stone-armor-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "storm",
@@ -5529,7 +7176,10 @@
         "baseText":  "Whenever you play a Power, Channel 1 Lightning.",
         "upgradedText":  "Whenever you play a Power, Channel 2 Lightning.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/storm.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/storm-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/storm-upgraded.webp",
+        "tags":  [
+                     "Channel"
+                 ]
     },
     {
         "slug":  "storm-of-steel",
@@ -5541,7 +7191,10 @@
         "baseText":  "Discard your Hand. Add 1 Shiv into your Hand for each card discarded.",
         "upgradedText":  "Discard your Hand. Add 1 Shiv+ into your Hand for each card discarded.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/storm-of-steel.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/storm-of-steel-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/storm-of-steel-upgraded.webp",
+        "tags":  [
+                     "Shiv"
+                 ]
     },
     {
         "slug":  "strangle",
@@ -5553,7 +7206,10 @@
         "baseText":  "Deal 8 damage. Whenever you play a card this turn, the enemy loses 2 HP.",
         "upgradedText":  "Deal 10 damage. Whenever you play a card this turn, the enemy loses 3 HP.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/strangle.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/strangle-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/strangle-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "stratagem",
@@ -5565,7 +7221,10 @@
         "baseText":  "Whenever you shuffle your Draw Pile, choose a card from it to put into your Hand.",
         "upgradedText":  "Cost changes from 1 to 0",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/stratagem.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/stratagem-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/stratagem-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "strike-defect",
@@ -5577,7 +7236,10 @@
         "baseText":  "Deal 6 damage.",
         "upgradedText":  "Deal 9 damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/strike-defect.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/strike-defect-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/strike-defect-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "strike-ironclad",
@@ -5589,7 +7251,10 @@
         "baseText":  "Deal 6 damage.",
         "upgradedText":  "Deal 9 damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/strike-ironclad.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/strike-ironclad-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/strike-ironclad-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "strike-necrobinder",
@@ -5601,7 +7266,10 @@
         "baseText":  "Deal 6 damage.",
         "upgradedText":  "Deal 9 damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/strike-necrobinder.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/strike-necrobinder-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/strike-necrobinder-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "strike-regent",
@@ -5613,7 +7281,10 @@
         "baseText":  "Deal 6 damage.",
         "upgradedText":  "Deal 9 damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/strike-regent.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/strike-regent-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/strike-regent-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "strike-silent",
@@ -5625,7 +7296,10 @@
         "baseText":  "Deal 6 damage.",
         "upgradedText":  "Deal 9 damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/strike-silent.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/strike-silent-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/strike-silent-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "subroutine",
@@ -5637,7 +7311,10 @@
         "baseText":  "Whenever you play a Power, gain 1 Defect Energy.",
         "upgradedText":  "Cost changes from 1 to 0",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/subroutine.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/subroutine-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/subroutine-upgraded.webp",
+        "tags":  [
+                     "Energy"
+                 ]
     },
     {
         "slug":  "sucker-punch",
@@ -5649,7 +7326,11 @@
         "baseText":  "Deal 8 damage. Apply 1 Weak.",
         "upgradedText":  "Deal 10 damage. Apply 2 Weak.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/sucker-punch.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sucker-punch-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sucker-punch-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Debuff"
+                 ]
     },
     {
         "slug":  "summon-forth",
@@ -5661,7 +7342,11 @@
         "baseText":  "Put Sovereign Blade into your Hand from anywhere. Forge 8.",
         "upgradedText":  "Put Sovereign Blade into your Hand from anywhere. Forge 11.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/summon-forth.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/summon-forth-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/summon-forth-upgraded.webp",
+        "tags":  [
+                     "Forge",
+                     "Summon"
+                 ]
     },
     {
         "slug":  "sunder",
@@ -5673,7 +7358,11 @@
         "baseText":  "Deal 24 damage. If this kills an enemy, gain 3 Defect Energy.",
         "upgradedText":  "Deal 32 damage. If this kills an enemy, gain 3 Defect Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/sunder.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sunder-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sunder-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Energy"
+                 ]
     },
     {
         "slug":  "supercritical",
@@ -5685,7 +7374,11 @@
         "baseText":  "Gain 41 Defect Energy. Exhaust.",
         "upgradedText":  "Gain 61 Defect Energy. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/supercritical.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/supercritical-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/supercritical-upgraded.webp",
+        "tags":  [
+                     "Energy",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "supermassive",
@@ -5697,7 +7390,10 @@
         "baseText":  "Deal 5 damage. Deals 3 additional damage for each card you created this combat.",
         "upgradedText":  "Deal 5 damage. Deals 4 additional damage for each card you created this combat.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/supermassive.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/supermassive-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/supermassive-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "survivor",
@@ -5709,7 +7405,10 @@
         "baseText":  "Gain 8 Block. Discard 1 card.",
         "upgradedText":  "Gain 11 Block. Discard 1 card.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/survivor.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/survivor-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/survivor-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "sweeping-beam",
@@ -5721,7 +7420,11 @@
         "baseText":  "Deal 6 damage to ALL enemies. Draw 1 card.",
         "upgradedText":  "Deal 9 damage to ALL enemies. Draw 1 card.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/sweeping-beam.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sweeping-beam-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sweeping-beam-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Draw"
+                 ]
     },
     {
         "slug":  "sweeping-gaze",
@@ -5733,7 +7436,12 @@
         "baseText":  "Ethereal. Osty deals 10 damage to a random enemy. Exhaust.",
         "upgradedText":  "Ethereal. Osty deals 15 damage to a random enemy. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/sweeping-gaze.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sweeping-gaze-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sweeping-gaze-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Exhaust",
+                     "Ethereal"
+                 ]
     },
     {
         "slug":  "sword-boomerang",
@@ -5745,7 +7453,10 @@
         "baseText":  "Deal 3 damage to a random enemy 3 times.",
         "upgradedText":  "Deal 3 damage to a random enemy 4 times.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/sword-boomerang.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sword-boomerang-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sword-boomerang-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "sword-sage",
@@ -5757,7 +7468,10 @@
         "baseText":  "Sovereign Blade gains Replay 1.",
         "upgradedText":  "Cost changes from 2 to 1",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/sword-sage.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sword-sage-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/sword-sage-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "synchronize",
@@ -5769,7 +7483,10 @@
         "baseText":  "Gain 2 Focus this turn for each unique Orb you have. Exhaust.",
         "upgradedText":  "Gain 2 Focus this turn for each unique Orb you have.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/synchronize.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/synchronize-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/synchronize-upgraded.webp",
+        "tags":  [
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "synthesis",
@@ -5781,7 +7498,11 @@
         "baseText":  "Deal 14 damage. The next Power you play costs 0 1 Defect Energy.",
         "upgradedText":  "Deal 20 damage. The next Power you play costs 0 1 Defect Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/synthesis.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/synthesis-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/synthesis-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Energy"
+                 ]
     },
     {
         "slug":  "tactician",
@@ -5793,7 +7514,10 @@
         "baseText":  "Sly. Gain 1 Silent Energy.",
         "upgradedText":  "Sly. Gain 2 Silent Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/tactician.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/tactician-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/tactician-upgraded.webp",
+        "tags":  [
+                     "Energy"
+                 ]
     },
     {
         "slug":  "tag-team",
@@ -5805,7 +7529,10 @@
         "baseText":  "Deal 11 damage. The next Attack another player plays on the enemy is played an extra time.",
         "upgradedText":  "Deal 15 damage. The next Attack another player plays on the enemy is played an extra time.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/tag-team.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/tag-team-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/tag-team-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "tank",
@@ -5817,7 +7544,10 @@
         "baseText":  "Take double damage from enemies. Allies take half damage from enemies.",
         "upgradedText":  "Cost changes from 1 to 0",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/tank.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/tank-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/tank-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "taunt",
@@ -5829,7 +7559,11 @@
         "baseText":  "Gain 7 Block. Apply 1 Vulnerable.",
         "upgradedText":  "Gain 8 Block. Apply 2 Vulnerable.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/taunt.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/taunt-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/taunt-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Debuff"
+                 ]
     },
     {
         "slug":  "tear-asunder",
@@ -5841,7 +7575,10 @@
         "baseText":  "Deal 5 damage. Hits an additional time for each time you lost HP this combat.",
         "upgradedText":  "Deal 7 damage. Hits an additional time for each time you lost HP this combat.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/tear-asunder.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/tear-asunder-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/tear-asunder-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "tempest",
@@ -5853,7 +7590,10 @@
         "baseText":  "Channel X Lightning.",
         "upgradedText":  "Channel X+1 Lightning.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/tempest.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/tempest-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/tempest-upgraded.webp",
+        "tags":  [
+                     "Channel"
+                 ]
     },
     {
         "slug":  "terraforming",
@@ -5865,7 +7605,10 @@
         "baseText":  "Gain 6 Vigor.",
         "upgradedText":  "Gain 8 Vigor.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/terraforming.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/terraforming-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/terraforming-upgraded.webp",
+        "tags":  [
+
+                 ]
     },
     {
         "slug":  "tesla-coil",
@@ -5877,7 +7620,10 @@
         "baseText":  "Deal 3 damage. Trigger all Lightning against the enemy.",
         "upgradedText":  "Deal 4 damage. Trigger all Lightning against the enemy twice.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/tesla-coil.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/tesla-coil-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/tesla-coil-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "the-bomb",
@@ -5889,7 +7635,10 @@
         "baseText":  "At the end of 3 turns, deal 40 damage to ALL enemies.",
         "upgradedText":  "At the end of 3 turns, deal 50 damage to ALL enemies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/the-bomb.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/the-bomb-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/the-bomb-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "the-gambit",
@@ -5901,7 +7650,11 @@
         "baseText":  "Gain 50 Block. If you take unblocked attack damage this combat, die.",
         "upgradedText":  "Gain 75 Block. If you take unblocked attack damage this combat, die.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/the-gambit.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/the-gambit-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/the-gambit-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Block"
+                 ]
     },
     {
         "slug":  "the-hunt",
@@ -5913,7 +7666,11 @@
         "baseText":  "Deal 10 damage. If Fatal, gain an additional card reward. Exhaust.",
         "upgradedText":  "Deal 15 damage. If Fatal, gain an additional card reward. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/the-hunt.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/the-hunt-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/the-hunt-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "the-scythe",
@@ -5925,7 +7682,11 @@
         "baseText":  "Deal 13 damage. Permanently increase this card\u0027s damage by 4. Exhaust.",
         "upgradedText":  "Deal 13 damage. Permanently increase this card\u0027s damage by 5. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/the-scythe.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/the-scythe-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/the-scythe-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "the-smith",
@@ -5937,7 +7698,10 @@
         "baseText":  "Forge 30.",
         "upgradedText":  "Forge 40.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/the-smith.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/the-smith-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/the-smith-upgraded.webp",
+        "tags":  [
+                     "Forge"
+                 ]
     },
     {
         "slug":  "thinking-ahead",
@@ -5949,7 +7713,11 @@
         "baseText":  "Draw 2 cards. Put 1 card from your Hand on top of your Draw Pile. Exhaust.",
         "upgradedText":  "Draw 2 cards. Put 1 card from your Hand on top of your Draw Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/thinking-ahead.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/thinking-ahead-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/thinking-ahead-upgraded.webp",
+        "tags":  [
+                     "Draw",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "thrash",
@@ -5961,7 +7729,11 @@
         "baseText":  "Deal 4 damage twice. Exhaust a random Attack in your Hand and add its damage to this card.",
         "upgradedText":  "Deal 6 damage twice. Exhaust a random Attack in your Hand and add its damage to this card.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/thrash.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/thrash-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/thrash-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "thrumming-hatchet",
@@ -5973,7 +7745,10 @@
         "baseText":  "Deal 11 damage. At the start of your next turn, return this to your Hand.",
         "upgradedText":  "Deal 14 damage. At the start of your next turn, return this to your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/thrumming-hatchet.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/thrumming-hatchet-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/thrumming-hatchet-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "thunder",
@@ -5985,7 +7760,11 @@
         "baseText":  "Whenever you Evoke Lightning, deal 6 damage to each enemy hit.",
         "upgradedText":  "Whenever you Evoke Lightning, deal 8 damage to each enemy hit.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/thunder.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/thunder-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/thunder-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Evoke"
+                 ]
     },
     {
         "slug":  "thunderclap",
@@ -5997,7 +7776,11 @@
         "baseText":  "Deal 4 damage and apply 1 Vulnerable to ALL enemies.",
         "upgradedText":  "Deal 7 damage and apply 1 Vulnerable to ALL enemies.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/thunderclap.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/thunderclap-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/thunderclap-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Debuff"
+                 ]
     },
     {
         "slug":  "times-up",
@@ -6009,7 +7792,13 @@
         "baseText":  "Deal damage equal to the enemy\u0027s Doom. Exhaust.",
         "upgradedText":  "Retain. Deal damage equal to the enemy\u0027s Doom. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/times-up.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/times-up-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/times-up-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Retain",
+                     "Exhaust",
+                     "Doom"
+                 ]
     },
     {
         "slug":  "tools-of-the-trade",
@@ -6021,7 +7810,10 @@
         "baseText":  "At the start of your turn, draw 1 card and discard 1 card.",
         "upgradedText":  "Cost changes from 1 to 0",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/tools-of-the-trade.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/tools-of-the-trade-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/tools-of-the-trade-upgraded.webp",
+        "tags":  [
+                     "Draw"
+                 ]
     },
     {
         "slug":  "toric-toughness",
@@ -6033,7 +7825,10 @@
         "baseText":  "Gain 5 Block. Gain 5 Block at the start of the next 2 turns.",
         "upgradedText":  "Gain 7 Block. Gain 7 Block at the start of the next 2 turns.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/toric-toughness.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/toric-toughness-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/toric-toughness-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "tracking",
@@ -6045,7 +7840,11 @@
         "baseText":  "Weak enemies take double damage from Attacks.",
         "upgradedText":  "Cost changes from 2 to 1",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/tracking.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/tracking-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/tracking-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Debuff"
+                 ]
     },
     {
         "slug":  "transfigure",
@@ -6057,7 +7856,11 @@
         "baseText":  "Add Replay to a card in your Hand. It costs an extra 1 Necrobinder Energy. Exhaust.",
         "upgradedText":  "Add Replay to a card in your Hand. It costs an extra 1 Necrobinder Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/transfigure.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/transfigure-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/transfigure-upgraded.webp",
+        "tags":  [
+                     "Energy",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "trash-to-treasure",
@@ -6069,7 +7872,10 @@
         "baseText":  "Whenever you create a Status, Channel 1 random Orb.",
         "upgradedText":  "Innate. Whenever you create a Status, Channel 1 random Orb.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/trash-to-treasure.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/trash-to-treasure-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/trash-to-treasure-upgraded.webp",
+        "tags":  [
+                     "Channel"
+                 ]
     },
     {
         "slug":  "tremble",
@@ -6081,7 +7887,11 @@
         "baseText":  "Apply 3 Vulnerable. Exhaust.",
         "upgradedText":  "Apply 4 Vulnerable. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/tremble.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/tremble-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/tremble-upgraded.webp",
+        "tags":  [
+                     "Debuff",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "true-grit",
@@ -6093,7 +7903,11 @@
         "baseText":  "Gain 7 Block. Exhaust 1 card at random.",
         "upgradedText":  "Gain 9 Block. Exhaust 1 card.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/true-grit.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/true-grit-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/true-grit-upgraded.webp",
+        "tags":  [
+                     "Block",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "turbo",
@@ -6105,7 +7919,10 @@
         "baseText":  "Gain 2 Defect Energy. Add a Void into your Discard Pile.",
         "upgradedText":  "Gain 3 Defect Energy. Add a Void into your Discard Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/turbo.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/turbo-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/turbo-upgraded.webp",
+        "tags":  [
+                     "Energy"
+                 ]
     },
     {
         "slug":  "twin-strike",
@@ -6117,7 +7934,10 @@
         "baseText":  "Deal 5 damage twice.",
         "upgradedText":  "Deal 7 damage twice.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/twin-strike.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/twin-strike-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/twin-strike-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "tyranny",
@@ -6129,7 +7949,11 @@
         "baseText":  "At the start of your turn, draw 1 card and Exhaust 1 card from your Hand.",
         "upgradedText":  "Innate. At the start of your turn, draw 1 card and Exhaust 1 card from your Hand.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/tyranny.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/tyranny-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/tyranny-upgraded.webp",
+        "tags":  [
+                     "Draw",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "ultimate-defend",
@@ -6141,7 +7965,10 @@
         "baseText":  "Gain 11 Block.",
         "upgradedText":  "Gain 15 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/ultimate-defend.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/ultimate-defend-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/ultimate-defend-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "ultimate-strike",
@@ -6153,7 +7980,10 @@
         "baseText":  "Deal 14 damage.",
         "upgradedText":  "Deal 20 damage.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/ultimate-strike.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/ultimate-strike-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/ultimate-strike-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "undeath",
@@ -6165,7 +7995,10 @@
         "baseText":  "Gain 7 Block. Add a copy of this card into your Discard Pile.",
         "upgradedText":  "Gain 9 Block. Add a copy of this card into your Discard Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/undeath.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/undeath-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/undeath-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "unleash",
@@ -6177,7 +8010,10 @@
         "baseText":  "Osty deals 6 damage. Deals additional damage equal to Osty\u0027s current HP.",
         "upgradedText":  "Osty deals 9 damage. Deals additional damage equal to Osty\u0027s current HP.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/unleash.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/unleash-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/unleash-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "unmovable",
@@ -6189,7 +8025,10 @@
         "baseText":  "The first time you gain Block from a card each turn, double the amount gained.",
         "upgradedText":  "Cost changes from 2 to 1",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/unmovable.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/unmovable-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/unmovable-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "unrelenting",
@@ -6201,7 +8040,11 @@
         "baseText":  "Deal 14 damage. The next Attack you play costs 0 1 Ironclad Energy.",
         "upgradedText":  "Deal 20 damage. The next Attack you play costs 0 1 Ironclad Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/unrelenting.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/unrelenting-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/unrelenting-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Energy"
+                 ]
     },
     {
         "slug":  "untouchable",
@@ -6213,7 +8056,10 @@
         "baseText":  "Sly. Gain 6 Block.",
         "upgradedText":  "Sly. Gain 9 Block.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/untouchable.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/untouchable-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/untouchable-upgraded.webp",
+        "tags":  [
+                     "Block"
+                 ]
     },
     {
         "slug":  "up-my-sleeve",
@@ -6225,7 +8071,10 @@
         "baseText":  "Add 3 Shivs into your Hand. Reduce this card\u0027s cost by 1.",
         "upgradedText":  "Add 4 Shivs into your Hand. Reduce this card\u0027s cost by 1.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/up-my-sleeve.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/up-my-sleeve-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/up-my-sleeve-upgraded.webp",
+        "tags":  [
+                     "Shiv"
+                 ]
     },
     {
         "slug":  "uppercut",
@@ -6237,7 +8086,11 @@
         "baseText":  "Deal 13 damage. Apply 1 Weak. Apply 1 Vulnerable.",
         "upgradedText":  "Deal 13 damage. Apply 2 Weak. Apply 2 Vulnerable.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/uppercut.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/uppercut-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/uppercut-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Debuff"
+                 ]
     },
     {
         "slug":  "uproar",
@@ -6249,7 +8102,10 @@
         "baseText":  "Deal 6 damage twice. Play a random Attack from your Draw Pile.",
         "upgradedText":  "Deal 8 damage twice. Play a random Attack from your Draw Pile.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/uproar.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/uproar-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/uproar-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "veilpiercer",
@@ -6261,7 +8117,12 @@
         "baseText":  "Deal 10 damage. The next Ethereal card you play costs 0 1 Necrobinder Energy.",
         "upgradedText":  "Deal 13 damage. The next Ethereal card you play costs 0 1 Necrobinder Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/veilpiercer.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/veilpiercer-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/veilpiercer-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Energy",
+                     "Ethereal"
+                 ]
     },
     {
         "slug":  "venerate",
@@ -6273,7 +8134,11 @@
         "baseText":  "Gain 2 Regent Star Energy.",
         "upgradedText":  "Gain 3 Regent Star Energy.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/venerate.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/venerate-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/venerate-upgraded.webp",
+        "tags":  [
+                     "Energy",
+                     "Star"
+                 ]
     },
     {
         "slug":  "vicious",
@@ -6285,7 +8150,11 @@
         "baseText":  "Whenever you apply Vulnerable, draw 1 card.",
         "upgradedText":  "Whenever you apply Vulnerable, draw 2 cards.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/vicious.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/vicious-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/vicious-upgraded.webp",
+        "tags":  [
+                     "Draw",
+                     "Debuff"
+                 ]
     },
     {
         "slug":  "void-form",
@@ -6297,7 +8166,10 @@
         "baseText":  "Ethereal. End your turn. The first 2 cards you play each turn are free to play.",
         "upgradedText":  "End your turn. The first 2 cards you play each turn are free to play.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/void-form.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/void-form-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/void-form-upgraded.webp",
+        "tags":  [
+                     "Ethereal"
+                 ]
     },
     {
         "slug":  "volley",
@@ -6309,7 +8181,10 @@
         "baseText":  "Deal 10 damage to a random enemy X times.",
         "upgradedText":  "Deal 14 damage to a random enemy X times.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/volley.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/volley-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/volley-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "voltaic",
@@ -6321,7 +8196,11 @@
         "baseText":  "Channel Lightning equal to the Lightning already Channeled this combat. Exhaust.",
         "upgradedText":  "Channel Lightning equal to the Lightning already Channeled this combat.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/voltaic.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/voltaic-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/voltaic-upgraded.webp",
+        "tags":  [
+                     "Exhaust",
+                     "Channel"
+                 ]
     },
     {
         "slug":  "well-laid-plans",
@@ -6333,7 +8212,10 @@
         "baseText":  "At the end of your turn, Retain up to 1 card.",
         "upgradedText":  "At the end of your turn, Retain up to 2 cards.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/well-laid-plans.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/well-laid-plans-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/well-laid-plans-upgraded.webp",
+        "tags":  [
+                     "Retain"
+                 ]
     },
     {
         "slug":  "whirlwind",
@@ -6345,7 +8227,10 @@
         "baseText":  "Deal 5 damage to ALL enemies X times.",
         "upgradedText":  "Deal 8 damage to ALL enemies X times.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/whirlwind.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/whirlwind-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/whirlwind-upgraded.webp",
+        "tags":  [
+                     "Damage"
+                 ]
     },
     {
         "slug":  "white-noise",
@@ -6357,7 +8242,10 @@
         "baseText":  "Add a random Power into your Hand. It\u0027s free to play this turn. Exhaust.",
         "upgradedText":  "Cost changes from 1 to 0",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/white-noise.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/white-noise-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/white-noise-upgraded.webp",
+        "tags":  [
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "wisp",
@@ -6369,7 +8257,12 @@
         "baseText":  "Gain 1 Necrobinder Energy. Exhaust.",
         "upgradedText":  "Retain. Gain 1 Necrobinder Energy. Exhaust.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/wisp.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/wisp-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/wisp-upgraded.webp",
+        "tags":  [
+                     "Energy",
+                     "Retain",
+                     "Exhaust"
+                 ]
     },
     {
         "slug":  "wrought-in-war",
@@ -6381,7 +8274,11 @@
         "baseText":  "Deal 7 damage. Forge 7.",
         "upgradedText":  "Deal 9 damage. Forge 9.",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/wrought-in-war.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/wrought-in-war-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/wrought-in-war-upgraded.webp",
+        "tags":  [
+                     "Damage",
+                     "Forge"
+                 ]
     },
     {
         "slug":  "zap",
@@ -6393,7 +8290,10 @@
         "baseText":  "Channel 1 Lightning.",
         "upgradedText":  "Cost changes from 1 to 0",
         "artBase":  "https://img-preview.untapped.gg/sts2/en/cards/zap.webp",
-        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/zap-upgraded.webp"
+        "artUpgraded":  "https://img-preview.untapped.gg/sts2/en/cards/zap-upgraded.webp",
+        "tags":  [
+                     "Channel"
+                 ]
     }
 ]
 ;
