@@ -3,85 +3,178 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Slay the Spire 2 - Draft Simulator</title>
+<title>Slay the Spire II - Draft Simulator</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700;800&family=Kreon:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
 <header class="app-header">
-  <h1>Slay the Spire 2 <span>Draft Simulator</span></h1>
+  <div class="brand">
+    <div class="emblem"><div class="emblem-inner"></div></div>
+    <div>
+      <div class="brand-title">SLAY THE SPIRE II</div>
+      <div class="brand-subtitle">DRAFT SIMULATOR</div>
+    </div>
+  </div>
+  <div class="stepper" id="stepper"></div>
+  <button type="button" id="header-restart-btn" class="ghost-btn hidden">&#8630; NEW DRAFT</button>
 </header>
 
 <main id="app">
 
   <!-- SETUP SCREEN -->
   <section id="screen-setup" class="screen">
-    <h2>Set Up Your Draft</h2>
+    <h1>Build your deck</h1>
+    <p class="sub">Pick a character, then draft one card at a time from three options.</p>
 
-    <div class="field-group">
-      <label>Character</label>
-      <div id="class-select" class="class-grid"></div>
-    </div>
+    <div class="section-label">Character</div>
+    <div id="class-select" class="class-grid"></div>
 
-    <div class="field-group">
-      <label>
-        <input type="checkbox" id="include-colorless">
-        Include Colorless cards in the pool
-      </label>
-    </div>
-
-    <div class="field-group">
-      <label>
-        <input type="checkbox" id="show-niche-tags">
-        Show niche keyword tags (Shiv, Poison, Sly, Star, Forge, Summon, Doom, Souls, Channel, Evoke)
-      </label>
-    </div>
-
-    <div class="field-group">
-      <label>Number of Picks</label>
-      <div class="radio-row" id="picks-select">
-        <label><input type="radio" name="picks" value="10" checked> 10</label>
-        <label><input type="radio" name="picks" value="15"> 15</label>
-        <label><input type="radio" name="picks" value="20"> 20</label>
+    <div class="option-grid">
+      <div class="option-panel">
+        <div class="option-title">Number of Picks</div>
+        <div class="option-desc">How many cards you'll draft in total.</div>
+        <div class="segmented" id="picks-select">
+          <button type="button" class="segment selected" data-value="10">10</button>
+          <button type="button" class="segment" data-value="15">15</button>
+          <button type="button" class="segment" data-value="20">20</button>
+        </div>
+      </div>
+      <div class="option-panel">
+        <div class="option-title">Copies per Pick</div>
+        <div class="option-desc">Add 1 or 2 copies of each card you choose.</div>
+        <div class="segmented" id="copies-select">
+          <button type="button" class="segment selected" data-value="1">1x</button>
+          <button type="button" class="segment" data-value="2">2x</button>
+        </div>
+      </div>
+      <div class="option-panel">
+        <div class="option-title">Card Pool</div>
+        <div class="option-desc">Mix neutral Colorless cards into the offers.</div>
+        <button type="button" class="check-row" id="include-colorless">
+          <span class="checkbox"></span> Include Colorless cards
+        </button>
+      </div>
+      <div class="option-panel">
+        <div class="option-title">Card Tags</div>
+        <div class="option-desc">Show class keyword tags (Poison, Forge, Summon, Evoke...).</div>
+        <button type="button" class="check-row" id="show-niche-tags">
+          <span class="checkbox"></span> Show niche keyword tags
+        </button>
       </div>
     </div>
 
-    <div class="field-group">
-      <label>Copies per Drafted Card</label>
-      <div class="radio-row" id="copies-select">
-        <label><input type="radio" name="copies" value="1" checked> 1x</label>
-        <label><input type="radio" name="copies" value="2"> 2x</label>
-      </div>
-      <p class="hint" id="deck-size-hint"></p>
+    <div class="footer-bar">
+      <div class="deck-size-hint">Resulting deck: <span id="deck-size-hint"></span></div>
+      <button type="button" id="start-draft-btn" class="primary-btn" disabled>BEGIN DRAFT &rarr;</button>
     </div>
-
-    <button id="start-draft-btn" class="primary-btn" disabled>Start Draft</button>
+    <div class="hint-right" id="start-hint">Select a character to continue</div>
   </section>
 
   <!-- DRAFT SCREEN -->
   <section id="screen-draft" class="screen hidden">
-    <div class="draft-progress">
-      <span id="pick-progress-label"></span>
+    <div class="draft-layout">
+      <div class="draft-main">
+        <div class="draft-header">
+          <div class="class-emblem" id="draft-class-emblem"></div>
+          <div>
+            <div class="pick-title" id="pick-title"></div>
+            <div class="pick-class-name" id="pick-class-name"></div>
+          </div>
+        </div>
+        <div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
+        <div id="choice-grid" class="choice-grid"></div>
+        <div style="margin-top: 20px;">
+          <button type="button" id="undo-btn" class="ghost-btn" disabled>&#8630; UNDO LAST PICK</button>
+        </div>
+      </div>
+      <aside class="draft-sidebar">
+        <div class="sidebar-header">
+          <span>Your deck</span>
+          <span id="sidebar-deck-count">0</span>
+        </div>
+        <div>
+          <div class="sidebar-label">Energy curve</div>
+          <div class="energy-curve" id="sidebar-curve"></div>
+        </div>
+        <div>
+          <div class="sidebar-label">Card types</div>
+          <div class="type-bar" id="sidebar-type-bar"></div>
+          <div class="type-legend" id="sidebar-type-legend"></div>
+        </div>
+        <div>
+          <div class="sidebar-label">Cards drafted</div>
+          <div class="tray" id="sidebar-tray"></div>
+        </div>
+      </aside>
     </div>
-    <div id="choice-grid" class="choice-grid"></div>
   </section>
 
   <!-- FINAL DECK SCREEN -->
   <section id="screen-final" class="screen hidden">
-    <h2>Final Deck</h2>
-    <div class="field-group">
-      <label>
-        <input type="checkbox" id="include-starting-toggle">
-        Include starting deck cards in this view
-      </label>
+    <div class="final-header">
+      <div class="class-emblem" id="final-class-emblem"></div>
+      <div>
+        <div class="final-eyebrow">Draft complete</div>
+        <h1 id="final-title">Your Deck</h1>
+      </div>
     </div>
-    <div class="view-toggle" id="deck-view-toggle">
-      <button type="button" class="view-btn selected" data-view="list">List View</button>
-      <button type="button" class="view-btn" data-view="cards">Card View</button>
+
+    <div class="stats-grid">
+      <div class="stat-panel">
+        <div class="sidebar-label">Energy curve</div>
+        <div class="energy-curve energy-curve-lg" id="final-curve"></div>
+      </div>
+      <div class="stat-panel">
+        <div class="sidebar-label">Card types</div>
+        <div id="final-type-bars"></div>
+      </div>
+      <div class="stat-panel stat-numbers">
+        <div class="stat-row"><span>Total cards</span><span id="stat-total">0</span></div>
+        <div class="stat-row"><span>Avg. cost</span><span id="stat-avg-cost" class="accent">-</span></div>
+        <div class="stat-row"><span>Upgraded</span><span id="stat-upgraded" class="good">0</span></div>
+      </div>
     </div>
-    <div id="final-deck-list" class="deck-list"></div>
-    <div id="final-deck-cards" class="deck-cards-grid hidden"></div>
-    <button id="restart-btn" class="primary-btn">Start New Draft</button>
+
+    <div class="filter-row">
+      <input type="search" id="deck-search" placeholder="Search cards...">
+      <select id="filter-type">
+        <option value="All">All types</option>
+        <option value="Attack">Attack</option>
+        <option value="Skill">Skill</option>
+        <option value="Power">Power</option>
+      </select>
+      <select id="filter-rarity">
+        <option value="All">All rarities</option>
+        <option value="Common">Common</option>
+        <option value="Uncommon">Uncommon</option>
+        <option value="Rare">Rare</option>
+      </select>
+      <select id="sort-by">
+        <option value="rarity">Sort: Rarity</option>
+        <option value="name">Sort: Name</option>
+        <option value="cost">Sort: Cost</option>
+      </select>
+      <div class="view-toggle" id="deck-view-toggle">
+        <button type="button" class="view-btn selected" data-view="cards">CARDS</button>
+        <button type="button" class="view-btn" data-view="list">LIST</button>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 18px;">
+      <button type="button" class="check-row plain" id="include-starting-toggle">
+        <span class="checkbox"></span> Include starting deck cards
+      </button>
+    </div>
+
+    <div id="final-deck-cards" class="deck-cards-grid"></div>
+    <div id="final-deck-list" class="deck-list hidden"></div>
+    <p class="hint hidden" id="no-results-hint">No cards match your filters.</p>
+
+    <button type="button" id="restart-btn" class="primary-btn" style="margin-top: 8px;">Start New Draft</button>
   </section>
 
 </main>
